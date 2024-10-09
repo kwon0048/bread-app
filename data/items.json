@@ -1,0 +1,338 @@
+[
+    {
+      "itemNumber": "688401",
+      "chineseItemName": "港式菠蘿包",
+      "englishItemName": "BOLO BUN (HK)",
+      "tags": ["菠蘿", "包"]
+    },
+    {
+      "itemNumber": "688400",
+      "chineseItemName": "台式菠蘿包",
+      "englishItemName": "BOLO BUN (TW)",
+      "tags": ["菠蘿", "包"]
+    },
+    {
+      "itemNumber": "688399",
+      "chineseItemName": "菠蘿杏片奶油包",
+      "englishItemName": "BUTTER CREAM BOLO BUN",
+      "tags": ["菠蘿", "奶油", "包"]
+    },
+    {
+      "itemNumber": "688393",
+      "chineseItemName": "菠蘿椰絲包-港式",
+      "englishItemName": "COCONUT BOLO BUN - HK",
+      "tags": ["菠蘿", "椰絲", "包"]
+    },
+    {
+      "itemNumber": "688378",
+      "chineseItemName": "雞尾包",
+      "englishItemName": "COCONUT BUN",
+      "tags": ["椰絲", "包"]
+    },
+    {
+      "itemNumber": "688405",
+      "chineseItemName": "杏片椰絲包",
+      "englishItemName": "COCONUT BUN W/SLICE",
+      "tags": ["椰絲", "杏片", "包"]
+    },
+    {
+      "itemNumber": "688392",
+      "chineseItemName": "菠蘿奶黃包- 港式",
+      "englishItemName": "CUSTARD CREAM BOLO BUN",
+      "tags": ["菠蘿", "奶黃", "包"]
+    },
+    {
+      "itemNumber": "528684",
+      "chineseItemName": "芒果奶黃菠蘿包",
+      "englishItemName": "MANGO CUSTARD BOLO BUN",
+      "tags": ["菠蘿", "芒果", "奶黃", "包"]
+    },
+    {
+      "itemNumber": "688390",
+      "chineseItemName": "菠蘿紅豆包-港式",
+      "englishItemName": "RED BEAN BOLO BUN (HK)",
+      "tags": ["菠蘿", "紅豆", "包"]
+    },
+    {
+      "itemNumber": "688383",
+      "chineseItemName": "豆沙包",
+      "englishItemName": "RED BEAN BUN",
+      "tags": ["紅豆", "包"]
+    },
+    {
+      "itemNumber": "691018",
+      "chineseItemName": "芝麻紅豆包",
+      "englishItemName": "SESAME RED BEAN BUN",
+      "tags": ["紅豆", "芝麻", "包"]
+    },
+    {
+      "itemNumber": "688419",
+      "chineseItemName": "菠蘿叉燒包",
+      "englishItemName": "BBQ PORK BOLO BUN",
+      "tags": ["菠蘿", "叉燒", "包"]
+    },
+    {
+      "itemNumber": "688420",
+      "chineseItemName": "起酥叉燒包",
+      "englishItemName": "BBQ PORK BUN W/ PUFF",
+      "tags": ["叉燒", "起酥", "包"]
+    },
+    {
+      "itemNumber": "688436",
+      "chineseItemName": "咖哩牛肉包",
+      "englishItemName": "CURRY BEEF BUN",
+      "tags": ["咖哩", "牛肉", "包"]
+    },
+    {
+      "itemNumber": "688492",
+      "chineseItemName": "蔥花肉鬆包",
+      "englishItemName": "DRIED PORK & GREEN ONION",
+      "tags": ["肉鬆", "蔥花", "包"]
+    },
+    {
+      "itemNumber": "688421",
+      "chineseItemName": "肉鬆包",
+      "englishItemName": "DRIED PORK BUN",
+      "tags": ["肉鬆", "包"]
+    },
+    {
+        "itemNumber": "688423",
+        "chineseItemName": "海苔肉鬆卷",
+        "englishItemName": "DRIED PORK SEAWEED ROLL",
+        "tags": ["肉鬆", "海苔", "卷"]
+      },
+      {
+        "itemNumber": "688422",
+        "chineseItemName": "海苔肉鬆包",
+        "englishItemName": "DRIED PORK&SEAWEED BUN",
+        "tags": ["肉鬆", "海苔", "包"]
+      },
+      {
+        "itemNumber": "528729",
+        "chineseItemName": "芝士火腿迷你披薩",
+        "englishItemName": "HAM & CHEESE MINI PIZZA",
+        "tags": ["芝士", "火腿", "披薩"]
+      },
+      {
+        "itemNumber": "688430",
+        "chineseItemName": "火腿蛋包",
+        "englishItemName": "HAM & EGG BUN",
+        "tags": ["火腿", "雞蛋", "包"]
+      },
+      {
+        "itemNumber": "529037",
+        "chineseItemName": "三寶包",
+        "englishItemName": "IMITATION CRAB SAUSAGE",
+        "tags": ["蟹肉", "香腸", "包"]
+      },
+      {
+        "itemNumber": "677296",
+        "chineseItemName": "黑芝麻豆漿方包",
+        "englishItemName": "BLACK SESAME SOYMILK",
+        "tags": ["黑芝麻", "豆漿", "方包"]
+      },
+      {
+        "itemNumber": "615574",
+        "chineseItemName": "椰絲方包",
+        "englishItemName": "COCONUT BREAD",
+        "tags": ["椰絲", "方包"]
+      },
+      {
+        "itemNumber": "668205",
+        "chineseItemName": "紅豆菠蘿方包",
+        "englishItemName": "RED BEAN BREAD WI",
+        "tags": ["紅豆", "菠蘿", "方包"]
+      },
+      {
+        "itemNumber": "519734",
+        "chineseItemName": "紅豆椰絲吐司",
+        "englishItemName": "RED BEAN COCONUT BREAD",
+        "tags": ["紅豆", "椰絲", "吐司"]
+      },
+      {
+        "itemNumber": "508811",
+        "chineseItemName": "金沙奶黃泡芙麵包",
+        "englishItemName": "SALTED EGG YOLK PUFF",
+        "tags": ["鹹蛋黃", "泡芙", "麵包"]
+      },
+      {
+        "itemNumber": "520698",
+        "chineseItemName": "苧頭珍奶吐司",
+        "englishItemName": "TARO BREAD W/TAPIOCA",
+        "tags": ["芋頭", "珍珠奶茶", "吐司"]
+      },
+      {
+        "itemNumber": "022501",
+        "chineseItemName": "提子方包",
+        "englishItemName": "RAISIN BREAD",
+        "tags": ["提子", "方包"]
+      },
+      {
+        "itemNumber": "022513",
+        "chineseItemName": "60麥方包",
+        "englishItemName": "60 WHOLE WHEAT BREAD",
+        "tags": ["全麥", "方包"]
+      },
+      {
+        "itemNumber": "022508",
+        "chineseItemName": "鮮奶方包",
+        "englishItemName": "MILK BREAD",
+        "tags": ["鮮奶", "方包"]
+      },
+      {
+        "itemNumber": "506023",
+        "chineseItemName": "整條鮮奶方包",
+        "englishItemName": "MILK LOAF",
+        "tags": ["鮮奶", "方包"]
+      },
+      {
+        "itemNumber": "022749",
+        "chineseItemName": "多穀方包",
+        "englishItemName": "MULTI-GRAIN BREAD",
+        "tags": ["多穀", "方包"]
+      },
+      {
+        "itemNumber": "649800",
+        "chineseItemName": "白方包",
+        "englishItemName": "PLAIN BREAD",
+        "tags": ["白麵包", "方包"]
+      },
+      {
+        "itemNumber": "682791",
+        "chineseItemName": "去皮白方包",
+        "englishItemName": "PLAIN BREAD-NO CRUST",
+        "tags": ["白麵包", "無皮", "方包"]
+      },
+      {
+        "itemNumber": "777480",
+        "chineseItemName": "藜麥方包",
+        "englishItemName": "QUINOA WHEAT BREAD",
+        "tags": ["藜麥", "方包"]
+      },
+      {
+        "itemNumber": "022967",
+        "chineseItemName": "雞蛋甜方包",
+        "englishItemName": "SWEET EGG BREAD",
+        "tags": ["雞蛋", "甜", "方包"]
+      },
+      {
+        "itemNumber": "506026",
+        "chineseItemName": "鏊條雞蛋甜方包の",
+        "englishItemName": "SWEET EGG LOAF",
+        "tags": ["雞蛋", "甜", "方包"]
+      },
+      {
+        "itemNumber": "773227",
+        "chineseItemName": "豆腐方包",
+        "englishItemName": "TOFU BREAD",
+        "tags": ["豆腐", "方包"]
+      },
+      {
+        "itemNumber": "525875",
+        "chineseItemName": "小麥胚芽南瓜籽吐炒",
+        "englishItemName": "WHEAT GERM&PUMPKIN",
+        "tags": ["小麥胚芽", "南瓜籽", "吐司"]
+      },
+      {
+        "itemNumber": "668417",
+        "chineseItemName": "迷你叉燒包6件牛",
+        "englishItemName": "BBQ PORK BUN MINI",
+        "tags": ["叉燒", "迷你", "包"]
+      },
+      {
+        "itemNumber": "022654",
+        "chineseItemName": "法式芝士餐包六人",
+        "englishItemName": "CHEESE FRENCH BUN-OPC",
+        "tags": ["芝士", "法式", "餐包"]
+      },
+      {
+        "itemNumber": "697775",
+        "chineseItemName": "蔓越莓餐包 6PC",
+        "englishItemName": "CRANBERRY DINNER ROLLS",
+        "tags": ["蔓越莓", "餐包"]
+      },
+      {
+        "itemNumber": "022510",
+        "chineseItemName": "鹹餐包六人",
+        "englishItemName": "DINNER ROLLS-6PC",
+        "tags": ["鹹", "餐包"]
+      },
+      {
+        "itemNumber": "686246",
+        "chineseItemName": "雞蛋小餐包",
+        "englishItemName": "EGG TRAY BUN",
+        "tags": ["雞蛋", "餐包"]
+      },
+      {
+        "itemNumber": "705881",
+        "chineseItemName": "蔥花肉鬆小餐包",
+        "englishItemName": "GREEN ONION DRY PORK",
+        "tags": ["蔥花", "肉鬆", "餐包"]
+      },
+      {
+        "itemNumber": "669679",
+        "chineseItemName": "迷你雞尾包 6件",
+        "englishItemName": "MINI COCONUT BUN",
+        "tags": ["迷你", "椰絲", "包"]
+      },
+      {
+        "itemNumber": "649801",
+        "chineseItemName": "小餐包",
+        "englishItemName": "PLAIN TRAY BUN",
+        "tags": ["小餐包"]
+      },
+      {
+        "itemNumber": "691059",
+        "chineseItemName": "提子餐包-6件",
+        "englishItemName": "RAISIN DINNER ROLL - 6PCS",
+        "tags": ["提子", "餐包"]
+      },
+      {
+        "itemNumber": "022512",
+        "chineseItemName": "提子小餐包",
+        "englishItemName": "RAISIN TRAY BUN",
+        "tags": ["提子", "餐包"]
+      },
+      {
+        "itemNumber": "751147",
+        "chineseItemName": "芝麻餐包-6PCS",
+        "englishItemName": "SESAME DINNER ROLL- 6PCS",
+        "tags": ["芝麻", "餐包"]
+      },
+      {
+        "itemNumber": "681669",
+        "chineseItemName": "鮮奶排包",
+        "englishItemName": "MILK PLAIN LOAF",
+        "tags": ["鮮奶", "排包"]
+      },
+      {
+        "itemNumber": "022857",
+        "chineseItemName": "排包",
+        "englishItemName": "PLAIN LOAF",
+        "tags": ["排包"]
+      },
+      {
+        "itemNumber": "022650",
+        "chineseItemName": "提子排包",
+        "englishItemName": "RAISIN PLAIN LOAF",
+        "tags": ["提子", "排包"]
+      },
+      {
+        "itemNumber": "688973",
+        "chineseItemName": "比薩包",
+        "englishItemName": "PIZZA BUN",
+        "tags": ["披薩", "包"]
+      },
+      {
+        "itemNumber": "688427",
+        "chineseItemName": "腸仔包",
+        "englishItemName": "SAUSAGE BUN",
+        "tags": ["腸仔", "包"]
+      },
+      {
+        "itemNumber": "688488",
+        "chineseItemName": "吞拿魚包",
+        "englishItemName": "TUNA BUN",
+        "tags": ["吞拿魚", "包"]
+      }
+    ]
