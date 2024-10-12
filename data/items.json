@@ -1,338 +1,3812 @@
 [
     {
-      "itemNumber": "688401",
-      "chineseItemName": "港式菠蘿包",
-      "englishItemName": "BOLO BUN (HK)",
-      "tags": ["菠蘿", "包"]
+      "itemNumber": "022522",
+      "chineseItemName": "樹皮巧克力瑞士卷",
+      "englishItemName": "TREE SKIN CHOCOLATE SWISS ROLL",
+      "description": "A sweet Swiss roll with a chocolate flavor.",
+      "tags": ["巧克力", "瑞士卷"]
     },
     {
-      "itemNumber": "688400",
-      "chineseItemName": "台式菠蘿包",
-      "englishItemName": "BOLO BUN (TW)",
-      "tags": ["菠蘿", "包"]
+      "itemNumber": "022550",
+      "chineseItemName": "原味瑞士卷",
+      "englishItemName": "ORIGINAL SWISS ROLL",
+      "description": "A classic Swiss roll with a sweet taste.",
+      "tags": ["瑞士卷"]
     },
     {
-      "itemNumber": "688399",
-      "chineseItemName": "菠蘿杏片奶油包",
-      "englishItemName": "BUTTER CREAM BOLO BUN",
-      "tags": ["菠蘿", "奶油", "包"]
+      "itemNumber": "022556",
+      "chineseItemName": "杏仁瑞士卷",
+      "englishItemName": "ALMOND SWISS ROLL",
+      "description": "A sweet Swiss roll with almond flavor.",
+      "tags": ["杏仁", "瑞士卷"]
     },
     {
-      "itemNumber": "688393",
-      "chineseItemName": "菠蘿椰絲包-港式",
-      "englishItemName": "COCONUT BOLO BUN - HK",
-      "tags": ["菠蘿", "椰絲", "包"]
+      "itemNumber": "022562",
+      "chineseItemName": "日式紅豆包",
+      "englishItemName": "RED BEAN BUN - JAPANESE STYLE",
+      "description": "A sweet bun filled with red bean paste, Japanese style.",
+      "tags": ["紅豆", "包", "日式"]
     },
     {
-      "itemNumber": "688378",
-      "chineseItemName": "雞尾包",
-      "englishItemName": "COCONUT BUN",
-      "tags": ["椰絲", "包"]
+      "itemNumber": "022570",
+      "chineseItemName": "雞蛋三角蛋糕",
+      "englishItemName": "SPONGE",
+      "description": "A soft and sweet sponge cake.",
+      "tags": ["蛋糕"]
     },
     {
-      "itemNumber": "688405",
-      "chineseItemName": "杏片椰絲包",
-      "englishItemName": "COCONUT BUN W/SLICE",
-      "tags": ["椰絲", "杏片", "包"]
+      "itemNumber": "022577",
+      "chineseItemName": "香蕉蛋糕",
+      "englishItemName": "BANANA CAKE",
+      "description": "A sweet cake with banana flavor.",
+      "tags": ["香蕉", "蛋糕"]
     },
     {
-      "itemNumber": "688392",
-      "chineseItemName": "菠蘿奶黃包- 港式",
-      "englishItemName": "CUSTARD CREAM BOLO BUN",
-      "tags": ["菠蘿", "奶黃", "包"]
+      "itemNumber": "022578",
+      "chineseItemName": "香草蛋糕",
+      "englishItemName": "VANILLA CAKE",
+      "description": "A sweet cake with vanilla flavor.",
+      "tags": ["香草", "蛋糕"]
     },
     {
-      "itemNumber": "528684",
-      "chineseItemName": "芒果奶黃菠蘿包",
-      "englishItemName": "MANGO CUSTARD BOLO BUN",
-      "tags": ["菠蘿", "芒果", "奶黃", "包"]
+      "itemNumber": "022595",
+      "chineseItemName": "幸運餅",
+      "englishItemName": "FORTUNE COOKIE",
+      "description": "A sweet and crispy cookie with a fortune inside.",
+      "tags": ["餅"]
     },
     {
-      "itemNumber": "688390",
-      "chineseItemName": "菠蘿紅豆包-港式",
-      "englishItemName": "RED BEAN BOLO BUN (HK)",
-      "tags": ["菠蘿", "紅豆", "包"]
-    },
-    {
-      "itemNumber": "688383",
-      "chineseItemName": "豆沙包",
-      "englishItemName": "RED BEAN BUN",
+      "itemNumber": "022609",
+      "chineseItemName": "相思紅豆餅",
+      "englishItemName": "GIANT RED BEAN BUN",
+      "description": "A large bun filled with sweet red bean paste.",
       "tags": ["紅豆", "包"]
     },
     {
-      "itemNumber": "691018",
-      "chineseItemName": "芝麻紅豆包",
-      "englishItemName": "SESAME RED BEAN BUN",
-      "tags": ["紅豆", "芝麻", "包"]
+      "itemNumber": "022623",
+      "chineseItemName": "迷你丹麥芝士",
+      "englishItemName": "MINI DANISH CHEESE",
+      "description": "A mini Danish pastry with cheese filling.",
+      "tags": ["丹麥", "芝士"]
     },
     {
-      "itemNumber": "688419",
-      "chineseItemName": "菠蘿叉燒包",
-      "englishItemName": "BBQ PORK BOLO BUN",
-      "tags": ["菠蘿", "叉燒", "包"]
+      "itemNumber": "022647",
+      "chineseItemName": "芒果蛋糕",
+      "englishItemName": "MANGO CAKE",
+      "description": "A sweet cake with mango flavor.",
+      "tags": ["芒果", "蛋糕"]
     },
     {
-      "itemNumber": "688420",
-      "chineseItemName": "起酥叉燒包",
-      "englishItemName": "BBQ PORK BUN W/ PUFF",
-      "tags": ["叉燒", "起酥", "包"]
+      "itemNumber": "022663",
+      "chineseItemName": "新鮮果塔",
+      "englishItemName": "8PC FRESH FRUIT TART",
+      "description": "A tart filled with fresh fruits, sweet taste.",
+      "tags": ["果", "塔"]
     },
     {
-      "itemNumber": "688436",
-      "chineseItemName": "咖哩牛肉包",
-      "englishItemName": "CURRY BEEF BUN",
-      "tags": ["咖哩", "牛肉", "包"]
+      "itemNumber": "022675",
+      "chineseItemName": "日式紅豆多拿滋",
+      "englishItemName": "RED BEAN DONUTS",
+      "description": "Sweet donuts filled with red bean paste, Japanese style.",
+      "tags": ["紅豆", "多拿滋", "日式"]
     },
     {
-      "itemNumber": "688492",
-      "chineseItemName": "蔥花肉鬆包",
-      "englishItemName": "DRIED PORK & GREEN ONION",
-      "tags": ["肉鬆", "蔥花", "包"]
+      "itemNumber": "022676",
+      "chineseItemName": "日式奶油包",
+      "englishItemName": "CREAM BUN",
+      "description": "A sweet bun filled with cream, Japanese style.",
+      "tags": ["奶油", "包", "日式"]
     },
     {
-      "itemNumber": "688421",
-      "chineseItemName": "肉鬆包",
-      "englishItemName": "DRIED PORK BUN",
-      "tags": ["肉鬆", "包"]
+      "itemNumber": "022677",
+      "chineseItemName": "日式奶油卷",
+      "englishItemName": "BUTTER ROLLS",
+      "description": "Sweet rolls with butter filling, Japanese style.",
+      "tags": ["奶油", "卷", "日式"]
     },
     {
-        "itemNumber": "688423",
-        "chineseItemName": "海苔肉鬆卷",
-        "englishItemName": "DRIED PORK SEAWEED ROLL",
-        "tags": ["肉鬆", "海苔", "卷"]
+      "itemNumber": "022695",
+      "chineseItemName": "牛角包-4件",
+      "englishItemName": "CROISSANT - 4PCS",
+      "description": "A pack of 4 buttery croissants.",
+      "tags": ["牛角包"]
+    },
+    {
+      "itemNumber": "022696",
+      "chineseItemName": "港式大老婆餅",
+      "englishItemName": "HONG KONG STYLE WIFE CAKE",
+      "description": "A traditional Hong Kong pastry with a sweet filling.",
+      "tags": ["老婆餅", "港式"]
+    },
+    {
+      "itemNumber": "022700",
+      "chineseItemName": "蓮蓉棋子餅",
+      "englishItemName": "LOTUS SEED PASTE COOKIE",
+      "description": "A sweet cookie filled with lotus seed paste.",
+      "tags": ["蓮蓉", "餅"]
+    },
+    {
+      "itemNumber": "022702",
+      "chineseItemName": "豆沙棋子餅",
+      "englishItemName": "RED BEAN PASTE COOKIE",
+      "description": "A sweet cookie filled with red bean paste.",
+      "tags": ["豆沙", "餅"]
+    },
+    {
+      "itemNumber": "022716",
+      "chineseItemName": "7\"美式芝士",
+      "englishItemName": "7\" AMERICAN CHEESE",
+      "description": "A 7-inch American style cheese cake.",
+      "tags": ["芝士", "美式"]
+    },
+    {
+      "itemNumber": "022719",
+      "chineseItemName": "迷你牛角包",
+      "englishItemName": "MINI CROISSANT",
+      "description": "Mini buttery croissants.",
+      "tags": ["牛角包"]
+    },
+    {
+      "itemNumber": "022720",
+      "chineseItemName": "紅豆香蕉糕",
+      "englishItemName": "RED BEAN BANANA CAKE",
+      "description": "A sweet cake with red bean and banana flavor.",
+      "tags": ["紅豆", "香蕉", "蛋糕"]
+    },
+    {
+      "itemNumber": "022726",
+      "chineseItemName": "原味酥皮蛋糕",
+      "englishItemName": "ORIGINAL PUFF PASTRY CAKE",
+      "description": "A sweet puff pastry cake.",
+      "tags": ["酥皮", "蛋糕"]
+    },
+    {
+      "itemNumber": "022774",
+      "chineseItemName": "各類巧果",
+      "englishItemName": "VARIOUS COOKIES",
+      "description": "A variety of sweet cookies.",
+      "tags": ["巧果"]
+    },
+    {
+      "itemNumber": "022778",
+      "chineseItemName": "香蕉糕",
+      "englishItemName": "BANANA CAKE",
+      "description": "A sweet cake with banana flavor.",
+      "tags": ["香蕉", "蛋糕"]
+    },
+    {
+      "itemNumber": "022795",
+      "chineseItemName": "芒果糕",
+      "englishItemName": "MANGO CAKE",
+      "description": "A sweet cake with mango flavor.",
+      "tags": ["芒果", "蛋糕"]
+    },
+    {
+      "itemNumber": "022886",
+      "chineseItemName": "日本芝士蛋糕",
+      "englishItemName": "JAPANESE STYLE CHEESE",
+      "description": "A Japanese style cheese cake, sweet taste.",
+      "tags": ["芝士", "蛋糕", "日式"]
+    },
+    {
+      "itemNumber": "022962",
+      "chineseItemName": "檸檬天使蛋糕",
+      "englishItemName": "LEMON ANGEL CAKE",
+      "description": "A light and sweet lemon-flavored angel cake.",
+      "tags": ["檸檬", "蛋糕"]
+    },
+    {
+      "itemNumber": "022980",
+      "chineseItemName": "烘培類（有稅）",
+      "englishItemName": "BAKERY PRODUCT (WITH TAX)",
+      "description": "Various bakery products with tax included.",
+      "tags": ["烘培"]
+    },
+    {
+      "itemNumber": "022983",
+      "chineseItemName": "烘培類（無稅）",
+      "englishItemName": "BAKERY PRODUCT (NO TAX)",
+      "description": "Various bakery products without tax.",
+      "tags": ["烘培"]
+    },
+    {
+        "itemNumber": "500149",
+        "chineseItemName": "燒烤雞肉沙拉包",
+        "englishItemName": "BBQ CHICKEN SALAD BUN",
+        "description": "A savory bun filled with BBQ chicken and salad.",
+        "tags": ["燒烤", "雞肉", "包"]
       },
       {
-        "itemNumber": "688422",
-        "chineseItemName": "海苔肉鬆包",
-        "englishItemName": "DRIED PORK&SEAWEED BUN",
-        "tags": ["肉鬆", "海苔", "包"]
+        "itemNumber": "500159",
+        "chineseItemName": "日式大菠蘿原味",
+        "englishItemName": "JPN LARGE BOLO BUN - ORIGINAL",
+        "description": "A sweet Japanese style large bolo bun.",
+        "tags": ["菠蘿", "包", "日式"]
       },
       {
-        "itemNumber": "528729",
-        "chineseItemName": "芝士火腿迷你披薩",
-        "englishItemName": "HAM & CHEESE MINI PIZZA",
-        "tags": ["芝士", "火腿", "披薩"]
+        "itemNumber": "500160",
+        "chineseItemName": "日式大菠蘿肉鬆",
+        "englishItemName": "JPN LARGE BOLO BUN - PORK FLOSS",
+        "description": "A sweet and savory Japanese style large bolo bun with pork floss.",
+        "tags": ["菠蘿", "肉鬆", "包", "日式"]
       },
       {
-        "itemNumber": "688430",
-        "chineseItemName": "火腿蛋包",
-        "englishItemName": "HAM & EGG BUN",
-        "tags": ["火腿", "雞蛋", "包"]
+        "itemNumber": "500162",
+        "chineseItemName": "日式大菠蘿蔓越莓",
+        "englishItemName": "JPN LARGE BOLO BUN - CRANBERRY",
+        "description": "A sweet Japanese style large bolo bun with cranberries.",
+        "tags": ["菠蘿", "蔓越莓", "包", "日式"]
       },
       {
-        "itemNumber": "529037",
-        "chineseItemName": "三寶包",
-        "englishItemName": "IMITATION CRAB SAUSAGE",
-        "tags": ["蟹肉", "香腸", "包"]
+        "itemNumber": "500610",
+        "chineseItemName": "流心蛋黃酥",
+        "englishItemName": "CUSTARD EGG YOLK PASTRY",
+        "description": "A sweet pastry with a flowing custard egg yolk filling.",
+        "tags": ["蛋黃", "酥"]
       },
       {
-        "itemNumber": "677296",
-        "chineseItemName": "黑芝麻豆漿方包",
-        "englishItemName": "BLACK SESAME SOYMILK",
-        "tags": ["黑芝麻", "豆漿", "方包"]
+        "itemNumber": "501002",
+        "chineseItemName": "純牛油可頌",
+        "englishItemName": "BUTTER CROISSANT",
+        "description": "A buttery and flaky croissant.",
+        "tags": ["牛油", "可頌"]
       },
       {
-        "itemNumber": "615574",
-        "chineseItemName": "椰絲方包",
-        "englishItemName": "COCONUT BREAD",
-        "tags": ["椰絲", "方包"]
+        "itemNumber": "501279",
+        "chineseItemName": "6\"拉麵造型",
+        "englishItemName": "6\" RAMEN",
+        "description": "A 6-inch cake shaped like ramen.",
+        "tags": ["拉麵", "蛋糕"]
       },
       {
-        "itemNumber": "668205",
-        "chineseItemName": "紅豆菠蘿方包",
-        "englishItemName": "RED BEAN BREAD WI",
-        "tags": ["紅豆", "菠蘿", "方包"]
+        "itemNumber": "501280",
+        "chineseItemName": "8\"拉麵造型",
+        "englishItemName": "8\" RAMEN",
+        "description": "An 8-inch cake shaped like ramen.",
+        "tags": ["拉麵", "蛋糕"]
       },
       {
-        "itemNumber": "519734",
-        "chineseItemName": "紅豆椰絲吐司",
-        "englishItemName": "RED BEAN COCONUT BREAD",
-        "tags": ["紅豆", "椰絲", "吐司"]
+        "itemNumber": "501281",
+        "chineseItemName": "6\"小蜜蜂",
+        "englishItemName": "6\" LITTLE BEE",
+        "description": "A 6-inch cake shaped like a little bee.",
+        "tags": ["蜜蜂", "蛋糕"]
       },
       {
-        "itemNumber": "508811",
-        "chineseItemName": "金沙奶黃泡芙麵包",
-        "englishItemName": "SALTED EGG YOLK PUFF",
-        "tags": ["鹹蛋黃", "泡芙", "麵包"]
+        "itemNumber": "501282",
+        "chineseItemName": "8\"小蜜蜂",
+        "englishItemName": "8\" LITTLE BEE",
+        "description": "An 8-inch cake shaped like a little bee.",
+        "tags": ["蜜蜂", "蛋糕"]
       },
       {
-        "itemNumber": "520698",
-        "chineseItemName": "苧頭珍奶吐司",
-        "englishItemName": "TARO BREAD W/TAPIOCA",
-        "tags": ["芋頭", "珍珠奶茶", "吐司"]
+        "itemNumber": "503343",
+        "chineseItemName": "黑糖珍珠塔（6pc）",
+        "englishItemName": "PORTUGUESE TARTS W/ PEARL",
+        "description": "Portuguese tarts with brown sugar pearls, sweet taste.",
+        "tags": ["黑糖", "珍珠", "塔"]
       },
       {
-        "itemNumber": "022501",
-        "chineseItemName": "提子方包",
-        "englishItemName": "RAISIN BREAD",
-        "tags": ["提子", "方包"]
+        "itemNumber": "503823",
+        "chineseItemName": "黑糖手撕麵包",
+        "englishItemName": "BROWN SUGAR BREAD",
+        "description": "A sweet bread with brown sugar flavor.",
+        "tags": ["黑糖", "麵包"]
       },
       {
-        "itemNumber": "022513",
-        "chineseItemName": "60麥方包",
-        "englishItemName": "60 WHOLE WHEAT BREAD",
-        "tags": ["全麥", "方包"]
+        "itemNumber": "504329",
+        "chineseItemName": "海苔雞蛋卷",
+        "englishItemName": "SEAWEED EGG ROLL",
+        "description": "A savory egg roll with seaweed.",
+        "tags": ["海苔", "雞蛋卷"]
       },
       {
-        "itemNumber": "022508",
-        "chineseItemName": "鮮奶方包",
-        "englishItemName": "MILK BREAD",
-        "tags": ["鮮奶", "方包"]
+        "itemNumber": "504357",
+        "chineseItemName": "芝麻雞蛋卷",
+        "englishItemName": "SESAME EGG ROLL",
+        "description": "A savory egg roll with sesame.",
+        "tags": ["芝麻", "雞蛋卷"]
       },
       {
-        "itemNumber": "506023",
-        "chineseItemName": "整條鮮奶方包",
-        "englishItemName": "MILK LOAF",
-        "tags": ["鮮奶", "方包"]
+        "itemNumber": "504359",
+        "chineseItemName": "蜜三刀",
+        "englishItemName": "HONEY THREE KNIVES",
+        "description": "A sweet pastry with honey flavor.",
+        "tags": ["蜜", "三刀"]
       },
       {
-        "itemNumber": "022749",
-        "chineseItemName": "多穀方包",
-        "englishItemName": "MULTI-GRAIN BREAD",
-        "tags": ["多穀", "方包"]
+        "itemNumber": "504608",
+        "chineseItemName": "芝士黃金磚",
+        "englishItemName": "TRIPLE CHEESE GOLDEN BUN",
+        "description": "A sweet bun with triple cheese filling.",
+        "tags": ["芝士", "黃金", "包"]
       },
       {
-        "itemNumber": "649800",
-        "chineseItemName": "白方包",
-        "englishItemName": "PLAIN BREAD",
-        "tags": ["白麵包", "方包"]
+        "itemNumber": "504867",
+        "chineseItemName": "菲律賓甜包-藜麥",
+        "englishItemName": "PHILIPPINE SWEET BUN - QUINOA",
+        "description": "A sweet Philippine style bun with quinoa.",
+        "tags": ["甜包", "藜麥"]
       },
       {
-        "itemNumber": "682791",
-        "chineseItemName": "去皮白方包",
-        "englishItemName": "PLAIN BREAD-NO CRUST",
-        "tags": ["白麵包", "無皮", "方包"]
+        "itemNumber": "504950",
+        "chineseItemName": "港式小老婆餅-6件",
+        "englishItemName": "MINI WINTERMELON PASTRY",
+        "description": "A pack of 6 mini Hong Kong style wintermelon pastries.",
+        "tags": ["老婆餅", "港式"]
       },
       {
-        "itemNumber": "777480",
-        "chineseItemName": "藜麥方包",
-        "englishItemName": "QUINOA WHEAT BREAD",
-        "tags": ["藜麥", "方包"]
+        "itemNumber": "505362",
+        "chineseItemName": "菱形港式南瓜老婆餅",
+        "englishItemName": "DIAMOND SHAPED HONG KONG STYLE PUMPKIN WIFE CAKE",
+        "description": "A diamond-shaped Hong Kong style wife cake with pumpkin filling.",
+        "tags": ["南瓜", "老婆餅", "港式"]
       },
       {
-        "itemNumber": "022967",
-        "chineseItemName": "雞蛋甜方包",
-        "englishItemName": "SWEET EGG BREAD",
-        "tags": ["雞蛋", "甜", "方包"]
+        "itemNumber": "505363",
+        "chineseItemName": "港式紅豆老婆餅",
+        "englishItemName": "HONG KONG STYLE RED BEAN WIFE CAKE",
+        "description": "A Hong Kong style wife cake with red bean filling.",
+        "tags": ["紅豆", "老婆餅", "港式"]
+      },
+      {
+        "itemNumber": "505803",
+        "chineseItemName": "8\"抹茶紅豆",
+        "englishItemName": "8\" GREEN TEA & RED BEAN",
+        "description": "An 8-inch cake with green tea and red bean flavor.",
+        "tags": ["抹茶", "紅豆", "蛋糕"]
+      },
+      {
+        "itemNumber": "505804",
+        "chineseItemName": "6\"抹茶紅豆",
+        "englishItemName": "6\" GREEN TEA & RED BEAN",
+        "description": "A 6-inch cake with green tea and red bean flavor.",
+        "tags": ["抹茶", "紅豆", "蛋糕"]
       },
       {
         "itemNumber": "506026",
         "chineseItemName": "鏊條雞蛋甜方包の",
         "englishItemName": "SWEET EGG LOAF",
-        "tags": ["雞蛋", "甜", "方包"]
+        "description": "A sweet loaf with egg flavor.",
+        "tags": ["雞蛋", "方包"]
       },
       {
-        "itemNumber": "773227",
-        "chineseItemName": "豆腐方包",
-        "englishItemName": "TOFU BREAD",
-        "tags": ["豆腐", "方包"]
+        "itemNumber": "506644",
+        "chineseItemName": "檸檬天使杏片蛋糕",
+        "englishItemName": "LEMON ANGEL ALMOND CAKE",
+        "description": "A light and sweet lemon-flavored angel cake with almond slices.",
+        "tags": ["檸檬", "杏片", "蛋糕"]
       },
       {
-        "itemNumber": "525875",
-        "chineseItemName": "小麥胚芽南瓜籽吐炒",
-        "englishItemName": "WHEAT GERM&PUMPKIN",
-        "tags": ["小麥胚芽", "南瓜籽", "吐司"]
+        "itemNumber": "506656",
+        "chineseItemName": "草莓盒子蛋糕",
+        "englishItemName": "CUBE BOXED STRAWBERRY",
+        "description": "A sweet strawberry-flavored cake in a cube box.",
+        "tags": ["草莓", "蛋糕"]
       },
       {
-        "itemNumber": "668417",
-        "chineseItemName": "迷你叉燒包6件牛",
-        "englishItemName": "BBQ PORK BUN MINI",
-        "tags": ["叉燒", "迷你", "包"]
+        "itemNumber": "507336",
+        "chineseItemName": "草莓慕斯白玉卷",
+        "englishItemName": "STRAWBERRY MOUSSE MOCHI",
+        "description": "A sweet mochi roll with strawberry mousse filling.",
+        "tags": ["草莓", "慕斯", "白玉卷"]
       },
       {
-        "itemNumber": "022654",
-        "chineseItemName": "法式芝士餐包六人",
-        "englishItemName": "CHEESE FRENCH BUN-OPC",
-        "tags": ["芝士", "法式", "餐包"]
+        "itemNumber": "507342",
+        "chineseItemName": "抹茶慕斯白玉卷",
+        "englishItemName": "GREEN TEA MOUSSE MOCHI",
+        "description": "A sweet mochi roll with green tea mousse filling.",
+        "tags": ["抹茶", "慕斯", "白玉卷"]
       },
       {
-        "itemNumber": "697775",
-        "chineseItemName": "蔓越莓餐包 6PC",
-        "englishItemName": "CRANBERRY DINNER ROLLS",
-        "tags": ["蔓越莓", "餐包"]
+        "itemNumber": "507342",
+        "chineseItemName": "芒果慕斯白玉卷",
+        "englishItemName": "MANGO MOUSSE MOCHI",
+        "description": "A sweet mochi roll with mango mousse filling.",
+        "tags": ["芒果", "慕斯", "白玉卷"]
+      },
+      {
+        "itemNumber": "507342",
+        "chineseItemName": "牛奶慕斯白玉卷",
+        "englishItemName": "ORIGINAL MOUSSE MOCHI",
+        "description": "A sweet mochi roll with original mousse filling.",
+        "tags": ["牛奶", "慕斯", "白玉卷"]
+      },
+      {
+        "itemNumber": "507421",
+        "chineseItemName": "5.2\"岩鹽黑糖芝士",
+        "englishItemName": "5.2\" PINK SALT BROWN SUGAR CHEESE",
+        "description": "A 5.2-inch cake with pink salt and brown sugar cheese flavor.",
+        "tags": ["岩鹽", "黑糖", "芝士"]
+      },
+      {
+        "itemNumber": "507423",
+        "chineseItemName": "黑糖珍珠瑞士卷",
+        "englishItemName": "BLACK SUGAR TAPIOCA SWISS ROLL",
+        "description": "A sweet Swiss roll with black sugar and tapioca pearls.",
+        "tags": ["黑糖", "珍珠", "瑞士卷"]
+      },
+      {
+        "itemNumber": "507423",
+        "chineseItemName": "黑糖珍珠蛋糕",
+        "englishItemName": "BLACK SUGAR TAPIOCA CAKE",
+        "description": "A sweet cake with black sugar and tapioca pearls.",
+        "tags": ["黑糖", "珍珠", "蛋糕"]
+      },
+      {
+        "itemNumber": "508172",
+        "chineseItemName": "首爾抹茶包",
+        "englishItemName": "SEOUL MATCHA BUN",
+        "description": "A sweet bun with matcha flavor, Seoul style.",
+        "tags": ["抹茶", "包", "首爾"]
+      },
+      {
+        "itemNumber": "508173",
+        "chineseItemName": "首爾抹茶包",
+        "englishItemName": "SEOUL MATCHA BUN",
+        "description": "A sweet bun with matcha flavor, Seoul style.",
+        "tags": ["抹茶", "包", "首爾"]
+      },
+      {
+        "itemNumber": "508316",
+        "chineseItemName": "海苔肉鬆甜甜圈",
+        "englishItemName": "SEAWEED PORK FLOSS DONUT",
+        "description": "A savory donut with seaweed and pork floss.",
+        "tags": ["海苔", "肉鬆", "甜甜圈"]
+      },
+      {
+        "itemNumber": "508317",
+        "chineseItemName": "朱古力堅果甜甜圈",
+        "englishItemName": "CHOCOLATE NUT DONUT",
+        "description": "A sweet donut with chocolate and nuts.",
+        "tags": ["朱古力", "堅果", "甜甜圈"]
+      },
+      {
+        "itemNumber": "508759",
+        "chineseItemName": "榴蓮豆蓉酥",
+        "englishItemName": "DURIAN BEAN PASTE PASTRY",
+        "description": "A sweet pastry with durian and bean paste filling.",
+        "tags": ["榴蓮", "豆蓉", "酥"]
+      },
+      {
+        "itemNumber": "508760",
+        "chineseItemName": "清心糕",
+        "englishItemName": "QINGXIN CAKE",
+        "description": "A sweet and refreshing Qingxin cake.",
+        "tags": ["清心", "糕"]
+      },
+      {
+        "itemNumber": "508761",
+        "chineseItemName": "榴蓮芋頭酥",
+        "englishItemName": "DURIAN TARO PASTRY",
+        "description": "A sweet pastry with durian and taro filling.",
+        "tags": ["榴蓮", "芋頭", "酥"]
+      },
+      {
+        "itemNumber": "508909",
+        "chineseItemName": "京式甜鹹酥組合B",
+        "englishItemName": "BEIJING STYLE SWEET AND SALTY PASTRY COMBO B",
+        "description": "A combo of sweet and salty Beijing style pastries.",
+        "tags": ["京式", "甜", "鹹", "酥"]
+      },
+      {
+        "itemNumber": "508912",
+        "chineseItemName": "京式甜鹹酥組合A",
+        "englishItemName": "BEIJING STYLE SWEET AND SALTY PASTRY COMBO A",
+        "description": "A combo of sweet and salty Beijing style pastries.",
+        "tags": ["京式", "甜", "鹹", "酥"]
+      },
+      {
+        "itemNumber": "508999",
+        "chineseItemName": "7.7\"岩鹽黑糖芝士",
+        "englishItemName": "7.7\" PINK SALT BROWN SUGAR CHEESE",
+        "description": "A 7.7-inch cake with pink salt and brown sugar cheese flavor.",
+        "tags": ["岩鹽", "黑糖", "芝士"]
+      },
+      {
+        "itemNumber": "509152",
+        "chineseItemName": "5.2\"芒果慕絲",
+        "englishItemName": "5.2\" MANGO MOUSSE",
+        "description": "A 5.2-inch cake with mango mousse flavor.",
+        "tags": ["芒果", "慕絲"]
+      },
+      {
+        "itemNumber": "509155",
+        "chineseItemName": "5.2\"綠茶慕絲",
+        "englishItemName": "5.2\" GREEN TEA MOUSSE",
+        "description": "A 5.2-inch cake with green tea mousse flavor.",
+        "tags": ["綠茶", "慕絲"]
+      },
+      {
+        "itemNumber": "509157",
+        "chineseItemName": "5.2\"草莓慕絲",
+        "englishItemName": "5.2\" STRAWBERRY MOUSSE",
+        "description": "A 5.2-inch cake with strawberry mousse flavor.",
+        "tags": ["草莓", "慕絲"]
+      },
+      {
+        "itemNumber": "509183",
+        "chineseItemName": "7.7\"芒果慕絲",
+        "englishItemName": "7.7\" MANGO MOUSSE",
+        "description": "A 7.7-inch cake with mango mousse flavor.",
+        "tags": ["芒果", "慕絲"]
+      },
+      {
+        "itemNumber": "509184",
+        "chineseItemName": "7.7\"草莓慕絲",
+        "englishItemName": "7.7\" STRAWBERRY MOUSSE",
+        "description": "A 7.7-inch cake with strawberry mousse flavor.",
+        "tags": ["草莓", "慕絲"]
+      },
+      {
+        "itemNumber": "509185",
+        "chineseItemName": "7.7\"綠茶慕絲",
+        "englishItemName": "7.7\" GREEN TEA MOUSSE",
+        "description": "A 7.7-inch cake with green tea mousse flavor.",
+        "tags": ["綠茶", "慕絲"]
+      },
+      {
+        "itemNumber": "509186",
+        "chineseItemName": "5.2\"芝士慕絲",
+        "englishItemName": "5.2\" CHEESE MOUSSE",
+        "description": "A 5.2-inch cake with cheese mousse flavor.",
+        "tags": ["芝士", "慕絲"]
+      },
+      {
+        "itemNumber": "509187",
+        "chineseItemName": "7.7\"芝士慕絲",
+        "englishItemName": "7.7\" CHEESE MOUSSE",
+        "description": "A 7.7-inch cake with cheese mousse flavor.",
+        "tags": ["芝士", "慕絲"]
+      },
+      {
+        "itemNumber": "509188",
+        "chineseItemName": "5.2\"提拉米蘇慕絲",
+        "englishItemName": "5.2\" TIRAMISU MOUSSE",
+        "description": "A 5.2-inch cake with tiramisu mousse flavor.",
+        "tags": ["提拉米蘇", "慕絲"]
+      },
+      {
+        "itemNumber": "509189",
+        "chineseItemName": "5.2\"朱古力慕絲",
+        "englishItemName": "5.2\" CHOCOLATE MOUSSE",
+        "description": "A 5.2-inch cake with chocolate mousse flavor.",
+        "tags": ["朱古力", "慕絲"]
+      },
+      {
+        "itemNumber": "509190",
+        "chineseItemName": "7.7\"朱古力慕絲",
+        "englishItemName": "7.7\" CHOCOLATE MOUSSE",
+        "description": "A 7.7-inch cake with chocolate mousse flavor.",
+        "tags": ["朱古力", "慕絲"]
+      },
+      {
+        "itemNumber": "509191",
+        "chineseItemName": "7.7\"提拉米蘇慕絲",
+        "englishItemName": "7.7\" TIRAMISU MOUSSE",
+        "description": "A 7.7-inch cake with tiramisu mousse flavor.",
+        "tags": ["提拉米蘇", "慕絲"]
+      },
+      {
+        "itemNumber": "509314",
+        "chineseItemName": "8\"芋頭",
+        "englishItemName": "8\" TARO",
+        "description": "An 8-inch cake with taro flavor.",
+        "tags": ["芋頭", "蛋糕"]
+      },
+      {
+        "itemNumber": "509315",
+        "chineseItemName": "6\"芋頭",
+        "englishItemName": "6\" TARO",
+        "description": "A 6-inch cake with taro flavor.",
+        "tags": ["芋頭", "蛋糕"]
+      },
+      {
+        "itemNumber": "509764",
+        "chineseItemName": "斑斓千層糕",
+        "englishItemName": "PANDAN LAYER CAKE",
+        "description": "A sweet layer cake with pandan flavor.",
+        "tags": ["斑斓", "千層糕"]
+      },
+      {
+        "itemNumber": "509765",
+        "chineseItemName": "斑斓綠豆糕",
+        "englishItemName": "PANDAN GREEN BEAN CAKE",
+        "description": "A sweet cake with pandan and green bean flavor.",
+        "tags": ["斑斓", "綠豆糕"]
+      },
+      {
+        "itemNumber": "509896",
+        "chineseItemName": "烤奶芝士塔盒裝",
+        "englishItemName": "BROILED MILKY CHEESE TARTS (6 PC)",
+        "description": "A box of 6 broiled milky cheese tarts, sweet taste.",
+        "tags": ["奶", "芝士", "塔"]
+      },
+      {
+        "itemNumber": "510563",
+        "chineseItemName": "朱古力甜橘蛋糕",
+        "englishItemName": "CHOCOLATE ORANGE CAKE",
+        "description": "A sweet cake with chocolate and orange flavor.",
+        "tags": ["朱古力", "橘", "蛋糕"]
+      },
+      {
+        "itemNumber": "510564",
+        "chineseItemName": "黑糖珍奶蛋糕",
+        "englishItemName": "BROWN SUGAR BOBA CAKE",
+        "description": "A sweet cake with brown sugar and boba pearls.",
+        "tags": ["黑糖", "珍奶", "蛋糕"]
+      },
+      {
+        "itemNumber": "510587",
+        "chineseItemName": "迷你椒鹽牛舌餅",
+        "englishItemName": "MINI PEPPER SALT OX TONGUE CAKE",
+        "description": "A savory mini cake with pepper and salt flavor.",
+        "tags": ["椒鹽", "牛舌餅"]
+      },
+      {
+        "itemNumber": "510789",
+        "chineseItemName": "韓式Q燒包-九件",
+        "englishItemName": "KOREAN STYLE BBQ BUN - 9 PCS",
+        "description": "A pack of 9 Korean style BBQ buns.",
+        "tags": ["韓式", "燒包"]
+      },
+      {
+        "itemNumber": "510995",
+        "chineseItemName": "古早秘制核桃棗糕",
+        "englishItemName": "TRADITIONAL WALNUT DATE CAKE",
+        "description": "A traditional cake with walnut and date flavor.",
+        "tags": ["核桃", "棗", "糕"]
+      },
+      {
+        "itemNumber": "511138",
+        "chineseItemName": "松露巧克力泡芙",
+        "englishItemName": "CHOCOLATE TRUFFLE CREAM PUFF",
+        "description": "A sweet cream puff with chocolate truffle filling.",
+        "tags": ["松露", "巧克力", "泡芙"]
+      },
+      {
+        "itemNumber": "511140",
+        "chineseItemName": "紫菜肉鬆芝士可頌",
+        "englishItemName": "SEAWEED CHEESE & PORK FLOSS CROISSANT",
+        "description": "A savory croissant with seaweed, cheese, and pork floss.",
+        "tags": ["紫菜", "肉鬆", "芝士", "可頌"]
+      },
+      {
+        "itemNumber": "511141",
+        "chineseItemName": "金沙蛋黃可頌包",
+        "englishItemName": "SALTED EGG YOLK CROISSANT",
+        "description": "A savory croissant with salted egg yolk filling.",
+        "tags": ["蛋黃", "可頌"]
+      },
+      {
+        "itemNumber": "511451",
+        "chineseItemName": "紅豆麻薯包",
+        "englishItemName": "RED BEAN MOCHI BUN",
+        "description": "A sweet bun with red bean and mochi filling.",
+        "tags": ["紅豆", "麻薯", "包"]
+      },
+      {
+        "itemNumber": "511452",
+        "chineseItemName": "栗子麻薯包",
+        "englishItemName": "CHESTnut MOCHI BUN",
+        "description": "A sweet bun with chestnut and mochi filling.",
+        "tags": ["栗子", "麻薯", "包"]
+      },
+      {
+        "itemNumber": "511479",
+        "chineseItemName": "榴蓮千層蛋糕",
+        "englishItemName": "DURIAN CREPE",
+        "description": "A sweet crepe cake with durian flavor.",
+        "tags": ["榴蓮", "千層蛋糕"]
+      },
+      {
+        "itemNumber": "511480",
+        "chineseItemName": "雙層芝士蛋糕",
+        "englishItemName": "DOUBLE LAYER CHEESECAKE",
+        "description": "A sweet cheesecake with double layers.",
+        "tags": ["芝士", "蛋糕"]
+      },
+      {
+        "itemNumber": "511506",
+        "chineseItemName": "6\"香橙松露巧克力",
+        "englishItemName": "6\" ORANGE TRUFFLE",
+        "description": "A 6-inch cake with orange and chocolate truffle flavor.",
+        "tags": ["香橙", "松露", "巧克力", "蛋糕"]
+      },
+      {
+        "itemNumber": "511507",
+        "chineseItemName": "可可蛋黃流心千層包",
+        "englishItemName": "CHOCOLATE EGG YOLK LAVA BREAD",
+        "description": "A sweet bread with chocolate and egg yolk lava filling.",
+        "tags": ["可可", "蛋黃", "千層包"]
+      },
+      {
+        "itemNumber": "511509",
+        "chineseItemName": "榛子巧克力旋風包",
+        "englishItemName": "HAZELNUT CHOCOLATE",
+        "description": "A sweet bread with hazelnut and chocolate flavor.",
+        "tags": ["榛子", "巧克力", "包"]
+      },
+      {
+        "itemNumber": "511524",
+        "chineseItemName": "傳統台式肉鬆三文治",
+        "englishItemName": "TRADITIONAL PORK FLOSS SANDWICH",
+        "description": "A traditional Taiwanese sandwich with pork floss.",
+        "tags": ["台式", "肉鬆", "三文治"]
+      },
+      {
+        "itemNumber": "511525",
+        "chineseItemName": "吞拿魚蔬菜三明治",
+        "englishItemName": "TUNA & VEGGIE SANDWICH",
+        "description": "A sandwich with tuna and vegetables.",
+        "tags": ["吞拿魚", "蔬菜", "三明治"]
+      },
+      {
+        "itemNumber": "511526",
+        "chineseItemName": "經典雞蛋白汁三文治",
+        "englishItemName": "CLASSIC EGG SALAD SANDWICH",
+        "description": "A classic sandwich with egg salad.",
+        "tags": ["雞蛋", "白汁", "三文治"]
+      },
+      {
+        "itemNumber": "511527",
+        "chineseItemName": "蒙特利爾鹹牛三明治",
+        "englishItemName": "MONTREAL CORN BEEF SANDWICH",
+        "description": "A sandwich with Montreal style corned beef.",
+        "tags": ["鹹牛", "三明治"]
+      },
+      {
+        "itemNumber": "511528",
+        "chineseItemName": "日式照燒雞肉三文治",
+        "englishItemName": "TERIYAKI CHICKEN SANDWICH",
+        "description": "A sandwich with teriyaki chicken, Japanese style.",
+        "tags": ["照燒", "雞肉", "三文治", "日式"]
+      },
+      {
+        "itemNumber": "511569",
+        "chineseItemName": "6\"拿破崙",
+        "englishItemName": "6\" NAPOLEON",
+        "description": "A 6-inch Napoleon cake.",
+        "tags": ["拿破崙", "蛋糕"]
+      },
+      {
+        "itemNumber": "511773",
+        "chineseItemName": "鮮芒果麻薯泡芙",
+        "englishItemName": "FRESH MANGO MOCHI CREAM PUFF",
+        "description": "A sweet cream puff with fresh mango and mochi filling.",
+        "tags": ["鮮芒果", "麻薯", "泡芙"]
+      },
+      {
+        "itemNumber": "511847",
+        "chineseItemName": "芒果盒子蛋糕",
+        "englishItemName": "MANGO BOXED CAKE",
+        "description": "A sweet cake with mango flavor in a box.",
+        "tags": ["芒果", "蛋糕"]
+      },
+      {
+        "itemNumber": "512025",
+        "chineseItemName": "紅豆麻薯盒子蛋糕",
+        "englishItemName": "RED BEAN CAKE W/ MOCHI",
+        "description": "A sweet cake with red bean and mochi filling in a box.",
+        "tags": ["紅豆", "麻薯", "蛋糕"]
+      },
+      {
+        "itemNumber": "512561",
+        "chineseItemName": "斑斓綠豆千層糕",
+        "englishItemName": "PANDAN GREEN BEAN LAYER CAKE",
+        "description": "A sweet layer cake with pandan and green bean flavor.",
+        "tags": ["斑斓", "綠豆", "千層糕"]
+      },
+      {
+        "itemNumber": "512967",
+        "chineseItemName": "6\"香蕉朱古力",
+        "englishItemName": "6\" BANANA CHOCOLATE",
+        "description": "A 6-inch cake with banana and chocolate flavor.",
+        "tags": ["香蕉", "朱古力", "蛋糕"]
+      },
+      {
+        "itemNumber": "513612",
+        "chineseItemName": "韓式蒜蓉奶酪包",
+        "englishItemName": "KOREAN STYLE GARLIC BREAD",
+        "description": "A savory Korean style garlic bread with cheese.",
+        "tags": ["韓式", "蒜蓉", "奶酪", "包"]
+      },
+      {
+        "itemNumber": "513701",
+        "chineseItemName": "紫米乳酪歐包",
+        "englishItemName": "PURPLE RICE CHEESE BREAD",
+        "description": "A savory bread with purple rice and cheese.",
+        "tags": ["紫米", "乳酪", "歐包"]
+      },
+      {
+        "itemNumber": "513702",
+        "chineseItemName": "芋泥麻薯歐包",
+        "englishItemName": "TARO PASTE & MOCHI BREAD",
+        "description": "A sweet bread with taro paste and mochi filling.",
+        "tags": ["芋泥", "麻薯", "歐包"]
+      },
+      {
+        "itemNumber": "513955",
+        "chineseItemName": "京式甜鹹酥組合C",
+        "englishItemName": "BEIJING STYLE SWEET AND SALTY PASTRY COMBO C",
+        "description": "A combo of sweet and salty Beijing style pastries.",
+        "tags": ["京式", "甜", "鹹", "酥"]
+      },
+      {
+        "itemNumber": "514944",
+        "chineseItemName": "6\"拿破崙榛子",
+        "englishItemName": "6\" HAZELNUT NAPOLEON",
+        "description": "A 6-inch Napoleon cake with hazelnut flavor.",
+        "tags": ["拿破崙", "榛子", "蛋糕"]
+      },
+      {
+        "itemNumber": "514948",
+        "chineseItemName": "法式乳酪泡芙麵包",
+        "englishItemName": "PUFF BREAD FRENCH STYLE CHEESE",
+        "description": "A savory puff bread with French style cheese.",
+        "tags": ["法式", "乳酪", "泡芙", "麵包"]
+      },
+      {
+        "itemNumber": "515026",
+        "chineseItemName": "法式甜蒜",
+        "englishItemName": "FRENCH STYLE SWEET GARLIC",
+        "description": "A sweet French style garlic bread.",
+        "tags": ["法式", "甜", "蒜"]
+      },
+      {
+        "itemNumber": "515027",
+        "chineseItemName": "法式芝士",
+        "englishItemName": "FRENCH STYLE CHEESE",
+        "description": "A savory French style cheese bread.",
+        "tags": ["法式", "芝士"]
+      },
+      {
+        "itemNumber": "515209",
+        "chineseItemName": "爆漿香草麻薯泡芙",
+        "englishItemName": "VANILLA MOCHI PUFF",
+        "description": "A sweet puff with vanilla and mochi filling.",
+        "tags": ["香草", "麻薯", "泡芙"]
+      },
+      {
+        "itemNumber": "515210",
+        "chineseItemName": "爆漿巧克力麻薯泡芙",
+        "englishItemName": "CHOCOLATE MOCHI PUFF",
+        "description": "A sweet puff with chocolate and mochi filling.",
+        "tags": ["巧克力", "麻薯", "泡芙"]
+      },
+      {
+        "itemNumber": "515716",
+        "chineseItemName": "紐約芝士蛋糕棒",
+        "englishItemName": "NEW YORK CHEESE STICK",
+        "description": "A sweet New York style cheese stick.",
+        "tags": ["紐約", "芝士", "蛋糕"]
+      },
+      {
+        "itemNumber": "515749",
+        "chineseItemName": "奧利與乳酪歐包",
+        "englishItemName": "OREO CREAM CHEESE BREAD",
+        "description": "A sweet bread with Oreo and cream cheese filling.",
+        "tags": ["奧利", "乳酪", "歐包"]
+      },
+      {
+        "itemNumber": "515838",
+        "chineseItemName": "迷你葡撻（6pc）",
+        "englishItemName": "MINI PORTUGUESE EGG TART",
+        "description": "A pack of 6 mini Portuguese egg tarts, sweet taste.",
+        "tags": ["葡撻", "蛋撻"]
+      },
+      {
+        "itemNumber": "516088",
+        "chineseItemName": "迷你蛋撻（6pc）",
+        "englishItemName": "MINI EGG TART",
+        "description": "A pack of 6 mini egg tarts, sweet taste.",
+        "tags": ["蛋撻"]
+      },
+      {
+        "itemNumber": "516534",
+        "chineseItemName": "生乳卷切件-草莓",
+        "englishItemName": "SLICE CREAM ROLL - STRAWBERRY",
+        "description": "A slice of cream roll with strawberry flavor.",
+        "tags": ["生乳卷", "草莓"]
+      },
+      {
+        "itemNumber": "516538",
+        "chineseItemName": "生乳卷切件-抹茶蜜橘",
+        "englishItemName": "SLICE CREAM ROLL - MATCHA",
+        "description": "A slice of cream roll with matcha and orange flavor.",
+        "tags": ["生乳卷", "抹茶", "蜜橘"]
+      },
+      {
+        "itemNumber": "516543",
+        "chineseItemName": "生乳卷切件-巧克力",
+        "englishItemName": "SLICE CREAM ROLL - CHOCOLATE",
+        "description": "A slice of cream roll with chocolate flavor.",
+        "tags": ["生乳卷", "巧克力"]
+      },
+      {
+        "itemNumber": "516630",
+        "chineseItemName": "紫薯地瓜包",
+        "englishItemName": "PURPLE SWEET POTATO BUN",
+        "description": "A sweet bun with purple sweet potato filling.",
+        "tags": ["紫薯", "地瓜", "包"]
+      },
+      {
+        "itemNumber": "516838",
+        "chineseItemName": "蓮蓉蛋黃酥",
+        "englishItemName": "LOTUS SEED PASTE EGG YOLK PASTRY",
+        "description": "A sweet pastry with lotus seed paste and egg yolk filling.",
+        "tags": ["蓮蓉", "蛋黃", "酥"]
+      },
+      {
+        "itemNumber": "516839",
+        "chineseItemName": "綠茶蛋黃酥",
+        "englishItemName": "GREEN TEA EGG YOLK PASTRY",
+        "description": "A sweet pastry with green tea and egg yolk filling.",
+        "tags": ["綠茶", "蛋黃", "酥"]
+      },
+      {
+        "itemNumber": "516883",
+        "chineseItemName": "8\"榛子醬奶油",
+        "englishItemName": "8\" HAZELNUT CREAM",
+        "description": "An 8-inch cake with hazelnut cream flavor.",
+        "tags": ["榛子", "奶油", "蛋糕"]
+      },
+      {
+        "itemNumber": "516884",
+        "chineseItemName": "8\"百香果奶油",
+        "englishItemName": "8\" PASSION FRUIT CREAM",
+        "description": "An 8-inch cake with passion fruit cream flavor.",
+        "tags": ["百香果", "奶油", "蛋糕"]
+      },
+      {
+        "itemNumber": "516885",
+        "chineseItemName": "8\"提拉米蘇奶油",
+        "englishItemName": "8\" TIRAMISU CREAM",
+        "description": "An 8-inch cake with tiramisu cream flavor.",
+        "tags": ["提拉米蘇", "奶油", "蛋糕"]
+      },
+      {
+        "itemNumber": "516950",
+        "chineseItemName": "蛋月燒",
+        "englishItemName": "EGG MOON CAKE",
+        "description": "A sweet moon cake with egg filling.",
+        "tags": ["蛋", "月燒"]
+      },
+      {
+        "itemNumber": "516956",
+        "chineseItemName": "蟹殼黃",
+        "englishItemName": "CRAB SHELL YELLOW",
+        "description": "A savory pastry with a crispy texture.",
+        "tags": ["蟹殼", "黃"]
+      },
+      {
+        "itemNumber": "517330",
+        "chineseItemName": "山楂鍋盔",
+        "englishItemName": "HAWTHORN PANCAKE",
+        "description": "A sweet and tangy pancake with hawthorn flavor.",
+        "tags": ["山楂", "鍋盔"]
+      },
+      {
+        "itemNumber": "517331",
+        "chineseItemName": "松仁奶皮酥",
+        "englishItemName": "PINE NUT MILK SKIN PASTRY",
+        "description": "A sweet pastry with pine nuts and milk skin.",
+        "tags": ["松仁", "奶皮", "酥"]
+      },
+      {
+        "itemNumber": "517332",
+        "chineseItemName": "傳統棗花酥",
+        "englishItemName": "TRADITIONAL DATE FLOWER PASTRY",
+        "description": "A traditional pastry with date filling.",
+        "tags": ["棗花", "酥"]
+      },
+      {
+        "itemNumber": "517333",
+        "chineseItemName": "沙琪瑪",
+        "englishItemName": "SACHIMA",
+        "description": "A sweet and crispy pastry.",
+        "tags": ["沙琪瑪"]
+      },
+      {
+        "itemNumber": "517334",
+        "chineseItemName": "鹹蛋散（低低盒）",
+        "englishItemName": "SALTED EGG SNACK (LOW BOX)",
+        "description": "A savory snack with salted egg flavor.",
+        "tags": ["鹹蛋", "散"]
+      },
+      {
+        "itemNumber": "517335",
+        "chineseItemName": "杏仁片糖",
+        "englishItemName": "ALMOND SLICES CANDY",
+        "description": "A sweet candy with almond slices.",
+        "tags": ["杏仁", "片糖"]
+      },
+      {
+        "itemNumber": "517336",
+        "chineseItemName": "黑芝麻杏仁餅",
+        "englishItemName": "BLACK SESAME ALMOND COOKIE",
+        "description": "A sweet cookie with black sesame and almond.",
+        "tags": ["黑芝麻", "杏仁", "餅"]
+      },
+      {
+        "itemNumber": "517790",
+        "chineseItemName": "榛子巧克力糯米糍",
+        "englishItemName": "HAZELNUT CHOCOLATE MOCHI",
+        "description": "A sweet mochi with hazelnut and chocolate filling.",
+        "tags": ["榛子", "巧克力", "糯米糍"]
+      },
+      {
+        "itemNumber": "517918",
+        "chineseItemName": "北海道草莓生乳包",
+        "englishItemName": "HOKKAIDO STRAWBERRY CREAM BUN",
+        "description": "A sweet bun with Hokkaido cream and strawberry filling.",
+        "tags": ["北海道", "草莓", "生乳包"]
+      },
+      {
+        "itemNumber": "517919",
+        "chineseItemName": "北海道巧克力生乳包",
+        "englishItemName": "HOKKAIDO CHOCOLATE CREAM BUN",
+        "description": "A sweet bun with Hokkaido cream and chocolate filling.",
+        "tags": ["北海道", "巧克力", "生乳包"]
+      },
+      {
+        "itemNumber": "518532",
+        "chineseItemName": "生乳卷切件-芒果",
+        "englishItemName": "SLICE CREAM ROLL - MANGO",
+        "description": "A slice of cream roll with mango flavor.",
+        "tags": ["生乳卷", "芒果"]
+      },
+      {
+        "itemNumber": "518533",
+        "chineseItemName": "熱情果西米露",
+        "englishItemName": "PASSION FRUIT TAPIOCA CUP",
+        "description": "A sweet tapioca dessert with passion fruit flavor.",
+        "tags": ["熱情果", "西米露"]
+      },
+      {
+        "itemNumber": "519471",
+        "chineseItemName": "酸奶慕斯兔",
+        "englishItemName": "BUNNY SHAPE MOUSSE",
+        "description": "A sweet mousse dessert in the shape of a bunny.",
+        "tags": ["酸奶", "慕斯", "兔"]
+      },
+      {
+        "itemNumber": "519610",
+        "chineseItemName": "日本芝士蛋糕（T&T）",
+        "englishItemName": "JAPANESE CHEESECAKE (T&T)",
+        "description": "A sweet Japanese style cheesecake.",
+        "tags": ["日本", "芝士", "蛋糕"]
+      },
+      {
+        "itemNumber": "519715",
+        "chineseItemName": "鹹蛋黃肉鬆生乳包",
+        "englishItemName": "SALTED EGG YOLK W/ PORK FLOSS",
+        "description": "A savory bun with salted egg yolk and pork floss.",
+        "tags": ["鹹蛋黃", "肉鬆", "生乳包"]
+      },
+      {
+        "itemNumber": "519736",
+        "chineseItemName": "芒果大福",
+        "englishItemName": "MANGO MOCHI",
+        "description": "A sweet mochi with mango filling.",
+        "tags": ["芒果", "大福"]
+      },
+      {
+        "itemNumber": "519737",
+        "chineseItemName": "榴蓮大福",
+        "englishItemName": "DURIAN MOCHI",
+        "description": "A sweet mochi with durian filling.",
+        "tags": ["榴蓮", "大福"]
+      },
+      {
+        "itemNumber": "519738",
+        "chineseItemName": "白桃茉莉大福",
+        "englishItemName": "WHITE PEACH JASMINE MOCHI",
+        "description": "A sweet mochi with white peach and jasmine filling.",
+        "tags": ["白桃", "茉莉", "大福"]
+      },
+      {
+        "itemNumber": "519742",
+        "chineseItemName": "芒果慕斯虎",
+        "englishItemName": "TIGER SHAPE MANGO MOUSSE",
+        "description": "A sweet mousse dessert in the shape of a tiger with mango flavor.",
+        "tags": ["芒果", "慕斯", "虎"]
+      },
+      {
+        "itemNumber": "519786",
+        "chineseItemName": "草錦奶油乳酪慕斯",
+        "englishItemName": "STRAWBERRY CREAM CHEESE MOUSSE",
+        "description": "A sweet mousse with strawberry and cream cheese flavor.",
+        "tags": ["草錦", "奶油", "乳酪", "慕斯"]
+      },
+      {
+        "itemNumber": "519788",
+        "chineseItemName": "6\"海鹽奧奧煤球",
+        "englishItemName": "6\" SEASALT OREO",
+        "description": "A 6-inch cake with sea salt and Oreo flavor.",
+        "tags": ["海鹽", "奧奧", "煤球", "蛋糕"]
+      },
+      {
+        "itemNumber": "520063",
+        "chineseItemName": "提拉米蘇大福",
+        "englishItemName": "TIRAMISU MOCHI",
+        "description": "A sweet mochi with tiramisu flavor.",
+        "tags": ["提拉米蘇", "大福"]
+      },
+      {
+        "itemNumber": "520156",
+        "chineseItemName": "紫薯酥餅-4件",
+        "englishItemName": "PURPLE SWEET POTATO PASTRY - 4 PCS",
+        "description": "A pack of 4 sweet pastries with purple sweet potato filling.",
+        "tags": ["紫薯", "酥餅"]
+      },
+      {
+        "itemNumber": "520158",
+        "chineseItemName": "香甜板栗餅-4件",
+        "englishItemName": "SWEET CHESTNUT PASTRY - 4 PCS",
+        "description": "A pack of 4 sweet pastries with chestnut filling.",
+        "tags": ["板栗", "餅"]
+      },
+      {
+        "itemNumber": "520161",
+        "chineseItemName": "玫瑰鮮花餅-4件",
+        "englishItemName": "ROSE FLOWER CAKE - 4 PCS",
+        "description": "A pack of 4 sweet cakes with rose flower flavor.",
+        "tags": ["玫瑰", "鮮花", "餅"]
+      },
+      {
+        "itemNumber": "520201",
+        "chineseItemName": "芝士手指麻薯包",
+        "englishItemName": "CHEESE FINGER MOCHI BUN",
+        "description": "A sweet bun with cheese and mochi filling.",
+        "tags": ["芝士", "手指", "麻薯", "包"]
+      },
+      {
+        "itemNumber": "520244",
+        "chineseItemName": "芒果千層蛋糕",
+        "englishItemName": "MANGO CREPE",
+        "description": "A sweet crepe cake with mango flavor.",
+        "tags": ["芒果", "千層", "蛋糕"]
+      },
+      {
+        "itemNumber": "520379",
+        "chineseItemName": "爆漿黑芝麻麻薯泡芙",
+        "englishItemName": "BLACK SESAME MOCHI PUFF",
+        "description": "A sweet puff with black sesame and mochi filling.",
+        "tags": ["黑芝麻", "麻薯", "泡芙"]
+      },
+      {
+        "itemNumber": "520381",
+        "chineseItemName": "荔枝芝士泡芙",
+        "englishItemName": "LYCHEE CREAM CHEESE PUFF",
+        "description": "A sweet puff with lychee and cream cheese filling.",
+        "tags": ["荔枝", "芝士", "泡芙"]
+      },
+      {
+        "itemNumber": "520520",
+        "chineseItemName": "桂圓蛋黃酥",
+        "englishItemName": "LONGAN EGG YOLK PASTRY",
+        "description": "A sweet pastry with longan and egg yolk filling.",
+        "tags": ["桂圓", "蛋黃", "酥"]
+      },
+      {
+        "itemNumber": "520719",
+        "chineseItemName": "芝士塔（6pc）",
+        "englishItemName": "CHEESE TART",
+        "description": "A pack of 6 sweet cheese tarts.",
+        "tags": ["芝士", "塔"]
+      },
+      {
+        "itemNumber": "520720",
+        "chineseItemName": "芝士小酥酥",
+        "englishItemName": "MINI CHEESE TARTS",
+        "description": "Mini sweet cheese tarts.",
+        "tags": ["芝士", "酥酥"]
+      },
+      {
+        "itemNumber": "521036",
+        "chineseItemName": "奶油餅玫瑰慕斯塔",
+        "englishItemName": "COOKIE MOUSSE ROSE & LYCHEE",
+        "description": "A sweet tart with rose and lychee mousse filling.",
+        "tags": ["奶油餅", "玫瑰", "慕斯", "塔"]
+      },
+      {
+        "itemNumber": "521037",
+        "chineseItemName": "奶油餅檸檬慕斯塔",
+        "englishItemName": "BUTTER COOKIE MOUSSE PEACH",
+        "description": "A sweet tart with peach mousse filling.",
+        "tags": ["奶油餅", "檸檬", "慕斯", "塔"]
+      },
+      {
+        "itemNumber": "521125",
+        "chineseItemName": "4\"紐約芝士",
+        "englishItemName": "CHEESECAKE NEW YORK",
+        "description": "A 4-inch New York style cheesecake.",
+        "tags": ["紐約", "芝士", "蛋糕"]
+      },
+      {
+        "itemNumber": "521127",
+        "chineseItemName": "4\"甜奶布丁芝士",
+        "englishItemName": "CHEESECAKE DULCE DE LECHE",
+        "description": "A 4-inch cheesecake with dulce de leche flavor.",
+        "tags": ["甜奶", "布丁", "芝士", "蛋糕"]
+      },
+      {
+        "itemNumber": "521130",
+        "chineseItemName": "4\"開心果芝士",
+        "englishItemName": "CHEESECAKE PISTACHIO",
+        "description": "A 4-inch cheesecake with pistachio flavor.",
+        "tags": ["開心果", "芝士", "蛋糕"]
+      },
+      {
+        "itemNumber": "521132",
+        "chineseItemName": "比利時巧克力芝士棒",
+        "englishItemName": "CHEESE STICK W/ CHOCOLATE",
+        "description": "A sweet cheese stick with Belgian chocolate.",
+        "tags": ["比利時", "巧克力", "芝士", "棒"]
+      },
+      {
+        "itemNumber": "521177",
+        "chineseItemName": "節日芒果布丁杯",
+        "englishItemName": "HOLIDAY MANGO PUDDING",
+        "description": "A sweet mango pudding cup for holidays.",
+        "tags": ["節日", "芒果", "布丁"]
+      },
+      {
+        "itemNumber": "521198",
+        "chineseItemName": "桃桃瑞士卷",
+        "englishItemName": "PEACH SWISS ROLL",
+        "description": "A sweet Swiss roll with peach flavor.",
+        "tags": ["桃桃", "瑞士卷"]
+      },
+      {
+        "itemNumber": "521199",
+        "chineseItemName": "楊枝甘露瑞士卷",
+        "englishItemName": "MANGO POMELO SWISS ROLL",
+        "description": "A sweet Swiss roll with mango and pomelo flavor.",
+        "tags": ["楊枝甘露", "瑞士卷"]
+      },
+      {
+        "itemNumber": "521243",
+        "chineseItemName": "芋頭雪媚娘（50g ×6）",
+        "englishItemName": "TARO MOCHI (50G ×6)",
+        "description": "A pack of 6 sweet mochi with taro filling.",
+        "tags": ["芋頭", "雪媚娘"]
+      },
+      {
+        "itemNumber": "521244",
+        "chineseItemName": "紅豆雪媚娘（50g ×6）",
+        "englishItemName": "RED BEAN MOCHI (50G ×6)",
+        "description": "A pack of 6 sweet mochi with red bean filling.",
+        "tags": ["紅豆", "雪媚娘"]
+      },
+      {
+        "itemNumber": "521245",
+        "chineseItemName": "迷你紫薯慕斯切件",
+        "englishItemName": "PURPLE YAM - SLICE",
+        "description": "A slice of sweet purple yam mousse cake.",
+        "tags": ["紫薯", "慕斯", "切件"]
+      },
+      {
+        "itemNumber": "521246",
+        "chineseItemName": "迷你草莓荔枝慕斯切件",
+        "englishItemName": "STRAWBERRY LYCHEE - SLICE",
+        "description": "A slice of sweet strawberry and lychee mousse cake.",
+        "tags": ["草莓", "荔枝", "慕斯", "切件"]
+      },
+      {
+        "itemNumber": "521247",
+        "chineseItemName": "迷你芒果慕斯切件",
+        "englishItemName": "MANGO MOUSSE CAKE - SLICE",
+        "description": "A slice of sweet mango mousse cake.",
+        "tags": ["芒果", "慕斯", "切件"]
+      },
+      {
+        "itemNumber": "521248",
+        "chineseItemName": "迷你提拉米蘇切件",
+        "englishItemName": "TIRAMISU MOUSSE CAKE - SLICE",
+        "description": "A slice of sweet tiramisu mousse cake.",
+        "tags": ["提拉米蘇", "慕斯", "切件"]
+      },
+      {
+        "itemNumber": "521249",
+        "chineseItemName": "迷你巧克力百香果切件",
+        "englishItemName": "CHOCOLATE PASSIONFRUIT - SLICE",
+        "description": "A slice of sweet chocolate and passionfruit mousse cake.",
+        "tags": ["巧克力", "百香果", "切件"]
+      },
+      {
+        "itemNumber": "521250",
+        "chineseItemName": "奶油餅芒果慕斯塔",
+        "englishItemName": "MANGO CHEESE MOUSSE TART",
+        "description": "A sweet tart with mango and cheese mousse filling.",
+        "tags": ["奶油餅", "芒果", "慕斯", "塔"]
+      },
+      {
+        "itemNumber": "521382",
+        "chineseItemName": "酥小芙",
+        "englishItemName": "CRISPY LITTLE PUFF",
+        "description": "A sweet and crispy puff pastry.",
+        "tags": ["酥", "小芙"]
+      },
+      {
+        "itemNumber": "521383",
+        "chineseItemName": "港式榴蓮酥",
+        "englishItemName": "HONG KONG STYLE DURIAN PASTRY",
+        "description": "A sweet pastry with durian filling, Hong Kong style.",
+        "tags": ["港式", "榴蓮", "酥"]
+      },
+      {
+        "itemNumber": "521384",
+        "chineseItemName": "丹麥手撕包",
+        "englishItemName": "DANISH BREAD",
+        "description": "A sweet and flaky Danish bread.",
+        "tags": ["丹麥", "手撕包"]
+      },
+      {
+        "itemNumber": "521385",
+        "chineseItemName": "椰蓉酥",
+        "englishItemName": "COCONUT PASTRY",
+        "description": "A sweet pastry with coconut filling.",
+        "tags": ["椰蓉", "酥"]
+      },
+      {
+        "itemNumber": "521396",
+        "chineseItemName": "核桃酸種酵母麵包",
+        "englishItemName": "WALNUT SOURDOUGH BREAD",
+        "description": "A savory sourdough bread with walnuts.",
+        "tags": ["核桃", "酸種", "酵母", "麵包"]
+      },
+      {
+        "itemNumber": "521397",
+        "chineseItemName": "鄉村風格園麵包",
+        "englishItemName": "COUNTRY STYLE ROUND LOAF",
+        "description": "A rustic country style round loaf.",
+        "tags": ["鄉村", "風格", "園", "麵包"]
+      },
+      {
+        "itemNumber": "521411",
+        "chineseItemName": "發芽穀物麵包",
+        "englishItemName": "SPROUTED GRAIN LOAF",
+        "description": "A healthy loaf made with sprouted grains.",
+        "tags": ["發芽", "穀物", "麵包"]
+      },
+      {
+        "itemNumber": "521775",
+        "chineseItemName": "棗泥卷",
+        "englishItemName": "DATE PASTE ROLL",
+        "description": "A sweet roll with date paste filling.",
+        "tags": ["棗泥", "卷"]
+      },
+      {
+        "itemNumber": "521850",
+        "chineseItemName": "比利時綜合麵包",
+        "englishItemName": "BELGIAN MOUNTAIN TRAIL LOAF",
+        "description": "A hearty Belgian style loaf with mixed grains.",
+        "tags": ["比利時", "綜合", "麵包"]
+      },
+      {
+        "itemNumber": "522068",
+        "chineseItemName": "培根火鷄三文治",
+        "englishItemName": "BACON TURKEY SANDWICH",
+        "description": "A savory sandwich with bacon and turkey.",
+        "tags": ["培根", "火鷄", "三文治"]
+      },
+      {
+        "itemNumber": "522468",
+        "chineseItemName": "可頌菠蘿包",
+        "englishItemName": "BOLO CROISSANT",
+        "description": "A sweet croissant with a bolo topping.",
+        "tags": ["可頌", "菠蘿包"]
+      },
+      {
+        "itemNumber": "522470",
+        "chineseItemName": "芋頭肉鬆盒子蛋糕",
+        "englishItemName": "TARO PASTE W/ PORK FLUFF",
+        "description": "A sweet cake with taro paste and pork floss.",
+        "tags": ["芋頭", "肉鬆", "盒子", "蛋糕"]
+      },
+      {
+        "itemNumber": "522472",
+        "chineseItemName": "黑芝麻麻薯盒子蛋糕",
+        "englishItemName": "BLACK SESAME CAKE W/ MOCHI",
+        "description": "A sweet cake with black sesame and mochi filling.",
+        "tags": ["黑芝麻", "麻薯", "盒子", "蛋糕"]
+      },
+      {
+        "itemNumber": "522547",
+        "chineseItemName": "綜合蛋黃酥（50g ×6）",
+        "englishItemName": "ASSORTED EGG YOLK PASTRY (50G ×6)",
+        "description": "A pack of 6 assorted egg yolk pastries.",
+        "tags": ["綜合", "蛋黃", "酥"]
+      },
+      {
+        "itemNumber": "522582",
+        "chineseItemName": "鮮水果三明治",
+        "englishItemName": "FRESH FRUIT SANDWICH",
+        "description": "A sandwich with fresh fruit filling.",
+        "tags": ["鮮水果", "三明治"]
+      },
+      {
+        "itemNumber": "522591",
+        "chineseItemName": "黑芝麻核桃三明治",
+        "englishItemName": "BLACK SESAME WALNUT CAKE",
+        "description": "A sandwich with black sesame and walnut filling.",
+        "tags": ["黑芝麻", "核桃", "三明治"]
+      },
+      {
+        "itemNumber": "523439",
+        "chineseItemName": "芒果三明治",
+        "englishItemName": "MANGO SANDWICH",
+        "description": "A sandwich with mango filling.",
+        "tags": ["芒果", "三明治"]
+      },
+      {
+        "itemNumber": "523453",
+        "chineseItemName": "芒果奶凍杯",
+        "englishItemName": "MANGO PUDDING CUP",
+        "description": "A sweet mango pudding cup.",
+        "tags": ["芒果", "奶凍", "杯"]
+      },
+      {
+        "itemNumber": "523566",
+        "chineseItemName": "4\"鮮芒果芝士",
+        "englishItemName": "FRESH MANGO CHEESECAKE",
+        "description": "A 4-inch cheesecake with fresh mango flavor.",
+        "tags": ["鮮芒果", "芝士", "蛋糕"]
+      },
+      {
+        "itemNumber": "523741",
+        "chineseItemName": "法式漢堡包",
+        "englishItemName": "LA FORNEE DOREE BURGER BUNS",
+        "description": "French style burger buns.",
+        "tags": ["法式", "漢堡包"]
+      },
+      {
+        "itemNumber": "523742",
+        "chineseItemName": "法式歐包",
+        "englishItemName": "LA FORNEE DOREE SLICE BRIOCHE",
+        "description": "French style sliced brioche.",
+        "tags": ["法式", "歐包"]
+      },
+      {
+        "itemNumber": "523743",
+        "chineseItemName": "法式迷你歐包",
+        "englishItemName": "LA FORNEE DOREE MINI BRIOCHE",
+        "description": "Mini French style brioche.",
+        "tags": ["法式", "迷你", "歐包"]
+      },
+      {
+        "itemNumber": "523744",
+        "chineseItemName": "法式巧克力歐包",
+        "englishItemName": "LA FORNEE DOREE CHOCOLATE CROISSANT",
+        "description": "French style chocolate croissant.",
+        "tags": ["法式", "巧克力", "歐包"]
+      },
+      {
+        "itemNumber": "523781",
+        "chineseItemName": "流心蛋黃牛角包",
+        "englishItemName": "EGG YOLK LAVA CROISSANT",
+        "description": "A sweet croissant with egg yolk lava filling.",
+        "tags": ["蛋黃", "牛角包"]
+      },
+      {
+        "itemNumber": "523782",
+        "chineseItemName": "雜糧乳酪包-2pc",
+        "englishItemName": "MULTI-GRAIN CHEESE BUN-2PC",
+        "description": "A pack of 2 multi-grain cheese buns.",
+        "tags": ["雜糧", "乳酪", "包"]
+      },
+      {
+        "itemNumber": "523783",
+        "chineseItemName": "綠豆餅（35g ×6）",
+        "englishItemName": "GREEN BEAN CAKE (35G ×6)",
+        "description": "A pack of 6 sweet green bean cakes.",
+        "tags": ["綠豆", "餅"]
+      },
+      {
+        "itemNumber": "523790",
+        "chineseItemName": "紅豆餅（35g ×6）",
+        "englishItemName": "RED BEAN CAKE (35G ×6)",
+        "description": "A pack of 6 sweet red bean cakes.",
+        "tags": ["紅豆", "餅"]
+      },
+      {
+        "itemNumber": "523792",
+        "chineseItemName": "糖火燒",
+        "englishItemName": "SUGAR FIRE BURN",
+        "description": "A sweet and crispy pastry.",
+        "tags": ["糖", "火燒"]
+      },
+      {
+        "itemNumber": "523793",
+        "chineseItemName": "花生麻醬酥",
+        "englishItemName": "PEANUT SESAME PASTRY",
+        "description": "A sweet pastry with peanut and sesame filling.",
+        "tags": ["花生", "麻醬", "酥"]
+      },
+      {
+        "itemNumber": "523794",
+        "chineseItemName": "麻醬燒餅",
+        "englishItemName": "SESAME PASTE CAKE",
+        "description": "A savory cake with sesame paste filling.",
+        "tags": ["麻醬", "燒餅"]
+      },
+      {
+        "itemNumber": "524093",
+        "chineseItemName": "藍莓奶凍杯",
+        "englishItemName": "BLUEBERRY PUDDING CUP",
+        "description": "A sweet blueberry pudding cup.",
+        "tags": ["藍莓", "奶凍", "杯"]
+      },
+      {
+        "itemNumber": "524094",
+        "chineseItemName": "草莓奶凍杯",
+        "englishItemName": "STRAWBERRY PUDDING CUP",
+        "description": "A sweet strawberry pudding cup.",
+        "tags": ["草莓", "奶凍", "杯"]
+      },
+      {
+        "itemNumber": "524350",
+        "chineseItemName": "水果奶油杯子蛋糕",
+        "englishItemName": "FRUIT CREAM CUPCAKE",
+        "description": "A sweet cupcake with fruit and cream.",
+        "tags": ["水果", "奶油", "杯子蛋糕"]
+      },
+      {
+        "itemNumber": "524351",
+        "chineseItemName": "麻薯奶黃流心菠蘿",
+        "englishItemName": "CUSTARD MOCHI BUN",
+        "description": "A sweet bun with custard and mochi filling.",
+        "tags": ["麻薯", "奶黃", "菠蘿"]
+      },
+      {
+        "itemNumber": "524377",
+        "chineseItemName": "櫻又夢慕斯蛋糕組",
+        "englishItemName": "SAKURA MOUSSE CAKE SET",
+        "description": "A set of sweet sakura mousse cakes.",
+        "tags": ["櫻", "夢", "慕斯", "蛋糕"]
+      },
+      {
+        "itemNumber": "524416",
+        "chineseItemName": "鹹蛋蛋黃酥（50g×4）",
+        "englishItemName": "SALTED EGG YOLK PASTRY (50G×4)",
+        "description": "A pack of 4 salted egg yolk pastries.",
+        "tags": ["鹹蛋", "蛋黃", "酥"]
+      },
+      {
+        "itemNumber": "524417",
+        "chineseItemName": "豆沙蛋黃酥（50g ×4）",
+        "englishItemName": "RED BEAN PASTE EGG YOLK PASTRY (50G ×4)",
+        "description": "A pack of 4 red bean paste egg yolk pastries.",
+        "tags": ["豆沙", "蛋黃", "酥"]
+      },
+      {
+        "itemNumber": "524418",
+        "chineseItemName": "抹茶蛋黃酥（50g×4）",
+        "englishItemName": "MATCHA EGG YOLK PASTRY (50G×4)",
+        "description": "A pack of 4 matcha egg yolk pastries.",
+        "tags": ["抹茶", "蛋黃", "酥"]
+      },
+      {
+        "itemNumber": "524419",
+        "chineseItemName": "桂圓蛋黃酥（50g×4）",
+        "englishItemName": "LONGAN EGG YOLK PASTRY (50G×4)",
+        "description": "A pack of 4 longan egg yolk pastries.",
+        "tags": ["桂圓", "蛋黃", "酥"]
+      },
+      {
+        "itemNumber": "524422",
+        "chineseItemName": "芋泥蛋黃酥（50g×4）",
+        "englishItemName": "TARO EGG YOLK PASTRY (50G×4)",
+        "description": "A pack of 4 taro egg yolk pastries.",
+        "tags": ["芋泥", "蛋黃", "酥"]
+      },
+      {
+        "itemNumber": "524690",
+        "chineseItemName": "芝士蒜香軟法棍",
+        "englishItemName": "CHEESE GARLIC SOFT BAGUETTE",
+        "description": "A soft baguette with cheese and garlic flavor.",
+        "tags": ["芝士", "蒜香", "法棍"]
+      },
+      {
+        "itemNumber": "525009",
+        "chineseItemName": "可可板栗酥",
+        "englishItemName": "COCOA CHESTNUT PASTRY",
+        "description": "A sweet pastry with cocoa and chestnut filling.",
+        "tags": ["可可", "板栗", "酥"]
+      },
+      {
+        "itemNumber": "525451",
+        "chineseItemName": "乳酪Q心酥",
+        "englishItemName": "CHEESE Q HEART PASTRY",
+        "description": "A sweet pastry with cheese filling.",
+        "tags": ["乳酪", "Q心", "酥"]
+      },
+      {
+        "itemNumber": "525956",
+        "chineseItemName": "牛油海鹽松露卷-3pc",
+        "englishItemName": "ALL BUTTER SEA SALT TRUFFLE ROLL-3PC",
+        "description": "A pack of 3 buttery rolls with sea salt and truffle flavor.",
+        "tags": ["牛油", "海鹽", "松露", "卷"]
+      },
+      {
+        "itemNumber": "525958",
+        "chineseItemName": "草莓芝士葡撻-6pc",
+        "englishItemName": "STRAWBERRY CHEESE PORTUGUESE TART (6 PC)",
+        "description": "A pack of 6 sweet Portuguese tarts with strawberry and cheese filling.",
+        "tags": ["草莓", "芝士", "葡撻"]
+      },
+      {
+        "itemNumber": "525966",
+        "chineseItemName": "髒髒朱古力葡撻-6pc",
+        "englishItemName": "DIRTY CHOCOLATE PORTUGUESE TART (6 PC)",
+        "description": "A pack of 6 sweet Portuguese tarts with dirty chocolate filling.",
+        "tags": ["朱古力", "葡撻"]
+      },
+      {
+        "itemNumber": "526223",
+        "chineseItemName": "原味抱抱卷",
+        "englishItemName": "ORIGINAL HUG ROLL",
+        "description": "A sweet roll with original flavor.",
+        "tags": ["抱抱", "卷"]
+      },
+      {
+        "itemNumber": "526342",
+        "chineseItemName": "丹麥千層小方",
+        "englishItemName": "DANISH LAYERED SQUARE",
+        "description": "A sweet and flaky Danish layered square.",
+        "tags": ["丹麥", "千層", "小方"]
+      },
+      {
+        "itemNumber": "526345",
+        "chineseItemName": "牛乳爆漿蛋糕",
+        "englishItemName": "MILK LAVA CAKE",
+        "description": "A sweet cake with milk lava filling.",
+        "tags": ["牛乳", "爆漿", "蛋糕"]
+      },
+      {
+        "itemNumber": "526700",
+        "chineseItemName": "紅絲絨杯子蛋糕",
+        "englishItemName": "RED VELVET CUPCAKE",
+        "description": "A sweet red velvet cupcake.",
+        "tags": ["紅絲絨", "杯子蛋糕"]
+      },
+      {
+        "itemNumber": "526701",
+        "chineseItemName": "蔓越莓杯子蛋糕",
+        "englishItemName": "CRANBERRY CUPCAKE",
+        "description": "A sweet cranberry cupcake.",
+        "tags": ["蔓越莓", "杯子蛋糕"]
+      },
+      {
+        "itemNumber": "526732",
+        "chineseItemName": "紫芋Q心包",
+        "englishItemName": "PURPLE YAM MOCHI BUN",
+        "description": "A sweet bun with purple yam and mochi filling.",
+        "tags": ["紫芋", "Q心", "包"]
+      },
+      {
+        "itemNumber": "526733",
+        "chineseItemName": "鮮乳草莓卷",
+        "englishItemName": "FRESH MILK STRAWBERRY ROLL",
+        "description": "A sweet roll with fresh milk and strawberry filling.",
+        "tags": ["鮮乳", "草莓", "卷"]
+      },
+      {
+        "itemNumber": "526734",
+        "chineseItemName": "鮮乳粒粒芒果卷",
+        "englishItemName": "FRESH MILK MANGO ROLL",
+        "description": "A sweet roll with fresh milk and mango filling.",
+        "tags": ["鮮乳", "芒果", "卷"]
+      },
+      {
+        "itemNumber": "527244",
+        "chineseItemName": "榴蓮酥餅（4個裝）",
+        "englishItemName": "DURIAN PASTRY (4 PCS)",
+        "description": "A pack of 4 sweet durian pastries.",
+        "tags": ["榴蓮", "酥餅"]
+      },
+      {
+        "itemNumber": "527294",
+        "chineseItemName": "鮮乳抹茶紅豆卷",
+        "englishItemName": "FRESH MILK MATCHA RED BEAN ROLL",
+        "description": "A sweet roll with fresh milk, matcha, and red bean filling.",
+        "tags": ["鮮乳", "抹茶", "紅豆", "卷"]
+      },
+      {
+        "itemNumber": "527671",
+        "chineseItemName": "抹茶味海軍豆糕",
+        "englishItemName": "MATCHA NAVY BEAN CAKE",
+        "description": "A sweet cake with matcha and navy bean flavor.",
+        "tags": ["抹茶", "海軍", "豆糕"]
+      },
+      {
+        "itemNumber": "527882",
+        "chineseItemName": "6\"茉莉青提",
+        "englishItemName": "6\" JASMINE GREEN GRAPE",
+        "description": "A 6-inch cake with jasmine and green grape flavor.",
+        "tags": ["茉莉", "青提", "蛋糕"]
+      },
+      {
+        "itemNumber": "527914",
+        "chineseItemName": "柚香芝士爆漿泡芙",
+        "englishItemName": "GRAPEFRUIT CHEESE LAVA PUFF",
+        "description": "A sweet puff with grapefruit and cheese lava filling.",
+        "tags": ["柚香", "芝士", "爆漿", "泡芙"]
+      },
+      {
+        "itemNumber": "528009",
+        "chineseItemName": "皮麻漢果",
+        "englishItemName": "SESAME HAN FRUIT",
+        "description": "A sweet and savory sesame han fruit.",
+        "tags": ["皮麻", "漢果"]
+      },
+      {
+        "itemNumber": "528010",
+        "chineseItemName": "罌粟粘風",
+        "englishItemName": "POPPY STICKY WIND",
+        "description": "A sweet and sticky poppy seed pastry.",
+        "tags": ["罌粟", "粘風"]
+      },
+      {
+        "itemNumber": "528141",
+        "chineseItemName": "提拉米蘇切件",
+        "englishItemName": "TIRAMISU CAKE - SLICE",
+        "description": "A slice of sweet tiramisu cake.",
+        "tags": ["提拉米蘇", "切件"]
+      },
+      {
+        "itemNumber": "528142",
+        "chineseItemName": "彩虹切件",
+        "englishItemName": "RAINBOW - SLICE",
+        "description": "A slice of sweet rainbow cake.",
+        "tags": ["彩虹", "切件"]
+      },
+      {
+        "itemNumber": "528143",
+        "chineseItemName": "黑芝麻豆乳切件",
+        "englishItemName": "BLACK SESAME SOYBEAN MILK",
+        "description": "A slice of sweet black sesame and soybean milk cake.",
+        "tags": ["黑芝麻", "豆乳", "切件"]
+      },
+      {
+        "itemNumber": "528144",
+        "chineseItemName": "黑森林脆脆切件",
+        "englishItemName": "BLACK FOREST CRUNCHY - SLICE",
+        "description": "A slice of sweet black forest crunchy cake.",
+        "tags": ["黑森林", "脆脆", "切件"]
+      },
+      {
+        "itemNumber": "528684",
+        "chineseItemName": "芒果奶黃菠蘿包",
+        "englishItemName": "MANGO CUSTARD BOLO BUN",
+        "description": "A sweet bolo bun with mango custard filling.",
+        "tags": ["芒果", "奶黃", "菠蘿包"]
+      },
+      {
+        "itemNumber": "528729",
+        "chineseItemName": "芝士火腿迷你披薩",
+        "englishItemName": "HAM & CHEESE MINI PIZZA",
+        "description": "A mini pizza with ham and cheese.",
+        "tags": ["芝士", "火腿", "迷你", "披薩"]
+      },
+      {
+        "itemNumber": "529037",
+        "chineseItemName": "三寶包",
+        "englishItemName": "IMITATION CRAB SAUSAGE",
+        "description": "A savory bun with imitation crab and sausage filling.",
+        "tags": ["三寶", "包"]
+      },
+      {
+        "itemNumber": "530239",
+        "chineseItemName": "照燒烤鷄肉三明治",
+        "englishItemName": "TERIYAKI GRILLED CHICKEN SANDWICH",
+        "description": "A savory sandwich with teriyaki grilled chicken.",
+        "tags": ["照燒", "烤鷄肉", "三明治"]
+      },
+      {
+        "itemNumber": "530240",
+        "chineseItemName": "芒果沙律三明治",
+        "englishItemName": "MANGO SALAD SANDWICH",
+        "description": "A sandwich with mango salad filling.",
+        "tags": ["芒果", "沙律", "三明治"]
+      },
+      {
+        "itemNumber": "530245",
+        "chineseItemName": "魚子蟹肉三明治",
+        "englishItemName": "CRAB ROE SANDWICH",
+        "description": "A savory sandwich with crab roe filling.",
+        "tags": ["魚子", "蟹肉", "三明治"]
+      },
+      {
+        "itemNumber": "530246",
+        "chineseItemName": "甜茅末烤牛肉三明治",
+        "englishItemName": "LEMONGRASS ROAST BEEF SANDWICH",
+        "description": "A savory sandwich with lemongrass roast beef.",
+        "tags": ["甜茅末", "烤牛肉", "三明治"]
+      },
+      {
+        "itemNumber": "530255",
+        "chineseItemName": "6\"奶油蛋糕",
+        "englishItemName": "6\" BUTTER CREAM",
+        "description": "A 6-inch butter cream cake.",
+        "tags": ["奶油", "蛋糕"]
+      },
+      {
+        "itemNumber": "530256",
+        "chineseItemName": "8\"奶油蛋糕",
+        "englishItemName": "8\" BUTTER CREAM",
+        "description": "An 8-inch butter cream cake.",
+        "tags": ["奶油", "蛋糕"]
+      },
+      {
+        "itemNumber": "531532",
+        "chineseItemName": "什錦調咪貝界",
+        "englishItemName": "ASSORTED SNACKS",
+        "description": "A variety of assorted snacks.",
+        "tags": ["什錦", "調咪", "貝界"]
+      },
+      {
+        "itemNumber": "600211",
+        "chineseItemName": "馬賽克曲奇",
+        "englishItemName": "MOSAIC COOKIES",
+        "description": "Sweet mosaic-patterned cookies.",
+        "tags": ["馬賽克", "曲奇"]
+      },
+      {
+        "itemNumber": "600213",
+        "chineseItemName": "熊貓餅乾",
+        "englishItemName": "PANDA COOKIES",
+        "description": "Sweet cookies shaped like pandas.",
+        "tags": ["熊貓", "餅乾"]
+      },
+      {
+        "itemNumber": "615008",
+        "chineseItemName": "三色日本草餅",
+        "englishItemName": "SANSHOKU DANGO",
+        "description": "Sweet Japanese dango in three colors.",
+        "tags": ["三色", "日本", "草餅"]
+      },
+      {
+        "itemNumber": "616467",
+        "chineseItemName": "綠色小包袋",
+        "englishItemName": "GREEN SMALL BAG",
+        "description": "A small green bag.",
+        "tags": ["綠色", "小包", "袋"]
+      },
+      {
+        "itemNumber": "616469",
+        "chineseItemName": "橘色小包袋",
+        "englishItemName": "ORANGE SMALL BAG",
+        "description": "A small orange bag.",
+        "tags": ["橘色", "小包", "袋"]
+      },
+      {
+        "itemNumber": "621408",
+        "chineseItemName": "特價小包組",
+        "englishItemName": "DISCOUNTED SMALL BAG SET",
+        "description": "A set of small bags at a discounted price.",
+        "tags": ["特價", "小包", "組"]
+      },
+      {
+        "itemNumber": "622773",
+        "chineseItemName": "6\"雜果",
+        "englishItemName": "6\" MIXED FRUIT",
+        "description": "A 6-inch cake with mixed fruit.",
+        "tags": ["雜果", "蛋糕"]
+      },
+      {
+        "itemNumber": "622774",
+        "chineseItemName": "8\"雜果",
+        "englishItemName": "8\" MIXED FRUIT",
+        "description": "An 8-inch cake with mixed fruit.",
+        "tags": ["雜果", "蛋糕"]
+      },
+      {
+        "itemNumber": "622882",
+        "chineseItemName": "6\"黑森林",
+        "englishItemName": "6\" BLACKFOREST",
+        "description": "A 6-inch Black Forest cake.",
+        "tags": ["黑森林", "蛋糕"]
+      },
+      {
+        "itemNumber": "622883",
+        "chineseItemName": "8\"黑森林",
+        "englishItemName": "8\" BLACKFOREST",
+        "description": "An 8-inch Black Forest cake.",
+        "tags": ["黑森林", "蛋糕"]
+      },
+      {
+        "itemNumber": "622907",
+        "chineseItemName": "10寸雜果",
+        "englishItemName": "10\" MIXED FRUIT",
+        "description": "A 10-inch cake with mixed fruit.",
+        "tags": ["雜果", "蛋糕"]
+      },
+      {
+        "itemNumber": "624046",
+        "chineseItemName": "奶黃泡芙九入裝",
+        "englishItemName": "CUSTARD PUFFS",
+        "description": "A pack of 9 sweet custard puffs.",
+        "tags": ["奶黃", "泡芙"]
+      },
+      {
+        "itemNumber": "624413",
+        "chineseItemName": "8\"栗子",
+        "englishItemName": "8\" CHESTNUT",
+        "description": "An 8-inch chestnut cake.",
+        "tags": ["栗子", "蛋糕"]
+      },
+      {
+        "itemNumber": "624487",
+        "chineseItemName": "6\"栗子",
+        "englishItemName": "6\" CHESTNUT",
+        "description": "A 6-inch chestnut cake.",
+        "tags": ["栗子", "蛋糕"]
+      },
+      {
+        "itemNumber": "624489",
+        "chineseItemName": "芒果布丁",
+        "englishItemName": "MANGO PUDDING",
+        "description": "A sweet mango pudding.",
+        "tags": ["芒果", "布丁"]
+      },
+      {
+        "itemNumber": "624491",
+        "chineseItemName": "水果布丁",
+        "englishItemName": "FRUIT PUDDING",
+        "description": "A sweet fruit pudding.",
+        "tags": ["水果", "布丁"]
+      },
+      {
+        "itemNumber": "626927",
+        "chineseItemName": "越式三明治",
+        "englishItemName": "VIETNAMESE SANDWICH",
+        "description": "A savory Vietnamese style sandwich.",
+        "tags": ["越式", "三明治"]
+      },
+      {
+        "itemNumber": "627085",
+        "chineseItemName": "六件-酥皮蛋撻",
+        "englishItemName": "EGG TARTS (6 PC)",
+        "description": "A pack of 6 sweet egg tarts.",
+        "tags": ["酥皮", "蛋撻"]
+      },
+      {
+        "itemNumber": "634672",
+        "chineseItemName": "三立燒",
+        "englishItemName": "SANRITSU CAKE",
+        "description": "A sweet Sanritsu cake.",
+        "tags": ["三立", "燒"]
+      },
+      {
+        "itemNumber": "642689",
+        "chineseItemName": "綠茶糕",
+        "englishItemName": "GREEN TEA CAKE",
+        "description": "A sweet green tea cake.",
+        "tags": ["綠茶", "糕"]
+      },
+      {
+        "itemNumber": "643813",
+        "chineseItemName": "六件-酥皮葡撻",
+        "englishItemName": "PORTUGUESE EGG TARTS (6 PC)",
+        "description": "A pack of 6 sweet Portuguese egg tarts.",
+        "tags": ["酥皮", "葡撻"]
+      },
+      {
+        "itemNumber": "643819",
+        "chineseItemName": "杏仁酥條",
+        "englishItemName": "ALMOND CRISPY STICKS",
+        "description": "Sweet and crispy almond sticks.",
+        "tags": ["杏仁", "酥條"]
+      },
+      {
+        "itemNumber": "644239",
+        "chineseItemName": "五仁棋子餅",
+        "englishItemName": "FIVE NUT COOKIES",
+        "description": "Sweet cookies with five types of nuts.",
+        "tags": ["五仁", "棋子餅"]
+      },
+      {
+        "itemNumber": "644244",
+        "chineseItemName": "越式三明治-辣",
+        "englishItemName": "VIETNAMESE SANDWICH - SPICY",
+        "description": "A spicy Vietnamese style sandwich.",
+        "tags": ["越式", "三明治", "辣"]
+      },
+      {
+        "itemNumber": "644939",
+        "chineseItemName": "拿破崙蛋糕",
+        "englishItemName": "NAPOLEON CAKE",
+        "description": "A sweet and flaky Napoleon cake.",
+        "tags": ["拿破崙", "蛋糕"]
+      },
+      {
+        "itemNumber": "645729",
+        "chineseItemName": "糖炒栗子",
+        "englishItemName": "SUGAR ROASTED CHESTNUTS",
+        "description": "Sweet roasted chestnuts with a sugar coating.",
+        "tags": ["糖炒", "栗子"]
+      },
+      {
+        "itemNumber": "646307",
+        "chineseItemName": "小牛油蛋糕",
+        "englishItemName": "BUTTER CAKE",
+        "description": "A small butter cake with a rich flavor.",
+        "tags": ["牛油", "蛋糕"]
+      },
+      {
+        "itemNumber": "646493",
+        "chineseItemName": "胡桃塔",
+        "englishItemName": "CROSTATA - PECAN",
+        "description": "A sweet crostata with pecan filling.",
+        "tags": ["胡桃", "塔"]
+      },
+      {
+        "itemNumber": "646495",
+        "chineseItemName": "杏仁塔",
+        "englishItemName": "CROSTATA - ALMOND",
+        "description": "A sweet crostata with almond filling.",
+        "tags": ["杏仁", "塔"]
+      },
+      {
+        "itemNumber": "646819",
+        "chineseItemName": "麻花",
+        "englishItemName": "TWISTED DOUGHNUT",
+        "description": "A sweet and crispy twisted doughnut.",
+        "tags": ["麻花"]
+      },
+      {
+        "itemNumber": "649161",
+        "chineseItemName": "提子英式鬆餅",
+        "englishItemName": "RAISIN ENGLISH SCONES",
+        "description": "Sweet English scones with raisins.",
+        "tags": ["提子", "英式", "鬆餅"]
+      },
+      {
+        "itemNumber": "649162",
+        "chineseItemName": "芝士英式鬆餅",
+        "englishItemName": "CHEESE ENGLISH SCONES",
+        "description": "Savory English scones with cheese.",
+        "tags": ["芝士", "英式", "鬆餅"]
+      },
+      {
+        "itemNumber": "649383",
+        "chineseItemName": "大福草餅-白",
+        "englishItemName": "JFC DAIFUKU SHIROO",
+        "description": "Sweet white daifuku mochi.",
+        "tags": ["大福", "草餅", "白"]
+      },
+      {
+        "itemNumber": "649384",
+        "chineseItemName": "大福草餅-綠",
+        "englishItemName": "JFC DAIFUKU YOMOGI",
+        "description": "Sweet green daifuku mochi.",
+        "tags": ["大福", "草餅", "綠"]
+      },
+      {
+        "itemNumber": "649687",
+        "chineseItemName": "綜合果仁提子糖",
+        "englishItemName": "MIXED NUTS AND RAISIN CANDY",
+        "description": "Sweet candy with mixed nuts and raisins.",
+        "tags": ["綜合", "果仁", "提子", "糖"]
+      },
+      {
+        "itemNumber": "650815",
+        "chineseItemName": "熱櫃產品（1-5pc）",
+        "englishItemName": "HOT DELI (1-5 PC)",
+        "description": "Hot deli items, 1-5 pieces.",
+        "tags": ["熱櫃", "產品"]
+      },
+      {
+        "itemNumber": "651553",
+        "chineseItemName": "迷你布朗尼",
+        "englishItemName": "MINI BROWNIES",
+        "description": "Sweet mini brownies.",
+        "tags": ["迷你", "布朗尼"]
+      },
+      {
+        "itemNumber": "651696",
+        "chineseItemName": "迷你日式乳酪蛋糕",
+        "englishItemName": "MINI JAPANESE CHEESE",
+        "description": "Sweet mini Japanese cheese cakes.",
+        "tags": ["迷你", "日式", "乳酪", "蛋糕"]
+      },
+      {
+        "itemNumber": "651698",
+        "chineseItemName": "香蒜包（85X4）",
+        "englishItemName": "GARLIC BREAD (85X4)",
+        "description": "A pack of 4 garlic bread pieces.",
+        "tags": ["香蒜", "包"]
+      },
+      {
+        "itemNumber": "652285",
+        "chineseItemName": "皮蛋酥",
+        "englishItemName": "CENTURY EGG PASTRY",
+        "description": "A savory pastry with century egg filling.",
+        "tags": ["皮蛋", "酥"]
+      },
+      {
+        "itemNumber": "654007",
+        "chineseItemName": "拿破崙綠茶蛋糕卷",
+        "englishItemName": "NAPOLEON GREEN TEA ROLL",
+        "description": "A sweet roll with green tea flavor.",
+        "tags": ["拿破崙", "綠茶", "蛋糕", "卷"]
+      },
+      {
+        "itemNumber": "654008",
+        "chineseItemName": "拿破崙巧克力蛋糕卷",
+        "englishItemName": "NAPOLEON CHOCOLATE ROLL",
+        "description": "A sweet roll with chocolate flavor.",
+        "tags": ["拿破崙", "巧克力", "蛋糕", "卷"]
+      },
+      {
+        "itemNumber": "659786",
+        "chineseItemName": "芒果西米露",
+        "englishItemName": "MANGO TAPIOCA CUP",
+        "description": "A sweet tapioca dessert with mango flavor.",
+        "tags": ["芒果", "西米露"]
+      },
+      {
+        "itemNumber": "662582",
+        "chineseItemName": "卡哩卡哩-甜",
+        "englishItemName": "KARI KARI - SWEET",
+        "description": "Sweet kari kari snacks.",
+        "tags": ["卡哩卡哩", "甜"]
+      },
+      {
+        "itemNumber": "662583",
+        "chineseItemName": "卡哩卡哩-鹹",
+        "englishItemName": "KARI KARI - SALTY",
+        "description": "Salty kari kari snacks.",
+        "tags": ["卡哩卡哩", "鹹"]
+      },
+      {
+        "itemNumber": "664024",
+        "chineseItemName": "輕乳酪蛋糕",
+        "englishItemName": "LIGHT CHEESE",
+        "description": "A light and fluffy cheese cake.",
+        "tags": ["乳酪", "蛋糕"]
+      },
+      {
+        "itemNumber": "664025",
+        "chineseItemName": "巧克力法式麵包-小粒",
+        "englishItemName": "CHOCOLATE FRENCH BREAD - SMALL",
+        "description": "Small French bread with chocolate flavor.",
+        "tags": ["巧克力", "法式", "麵包"]
+      },
+      {
+        "itemNumber": "664092",
+        "chineseItemName": "花生酥",
+        "englishItemName": "PEANUT CRISPY",
+        "description": "A sweet and crispy peanut pastry.",
+        "tags": ["花生", "酥"]
+      },
+      {
+        "itemNumber": "664095",
+        "chineseItemName": "芋頭酥",
+        "englishItemName": "TARO PASTRY",
+        "description": "A sweet pastry with taro filling.",
+        "tags": ["芋頭", "酥"]
+      },
+      {
+        "itemNumber": "664097",
+        "chineseItemName": "芝麻酥",
+        "englishItemName": "SESAME PASTRY",
+        "description": "A sweet pastry with sesame filling.",
+        "tags": ["芝麻", "酥"]
+      },
+      {
+        "itemNumber": "665554",
+        "chineseItemName": "8\"鮮芒果",
+        "englishItemName": "8\" FRESH MANGO",
+        "description": "An 8-inch cake with fresh mango flavor.",
+        "tags": ["鮮芒果", "蛋糕"]
+      },
+      {
+        "itemNumber": "665556",
+        "chineseItemName": "芋頭西米露",
+        "englishItemName": "TARO TAPIOCA CUP",
+        "description": "A sweet tapioca dessert with taro flavor.",
+        "tags": ["芋頭", "西米露"]
+      },
+      {
+        "itemNumber": "665596",
+        "chineseItemName": "6\"鮮芒果",
+        "englishItemName": "6\" FRESH MANGO",
+        "description": "A 6-inch cake with fresh mango flavor.",
+        "tags": ["鮮芒果", "蛋糕"]
+      },
+      {
+        "itemNumber": "666230",
+        "chineseItemName": "花生椰絲糖",
+        "englishItemName": "PEANUT COCONUT CANDY",
+        "description": "Sweet candy with peanut and coconut flavor.",
+        "tags": ["花生", "椰絲", "糖"]
+      },
+      {
+        "itemNumber": "667359",
+        "chineseItemName": "港菠-六件",
+        "englishItemName": "POLO BUN- 6PCS",
+        "description": "A pack of 6 sweet polo buns.",
+        "tags": ["港菠", "包"]
+      },
+      {
+        "itemNumber": "667714",
+        "chineseItemName": "白胡麻大福草餅",
+        "englishItemName": "JFC MOCHI SHIRO GOMA",
+        "description": "Sweet mochi with white sesame filling.",
+        "tags": ["白胡麻", "大福", "草餅"]
+      },
+      {
+        "itemNumber": "667715",
+        "chineseItemName": "黑胡麻大福草併",
+        "englishItemName": "JFC MOCHI KURO GOMA",
+        "description": "Sweet mochi with black sesame filling.",
+        "tags": ["黑胡麻", "大福", "草併"]
+      },
+      {
+        "itemNumber": "668419",
+        "chineseItemName": "奶油忌廉筒",
+        "englishItemName": "CREAM HORN",
+        "description": "A sweet pastry horn filled with cream.",
+        "tags": ["奶油", "忌廉", "筒"]
+      },
+      {
+        "itemNumber": "668756",
+        "chineseItemName": "迷你泡芙",
+        "englishItemName": "MINI PUFFS",
+        "description": "Sweet mini cream puffs.",
+        "tags": ["迷你", "泡芙"]
+      },
+      {
+        "itemNumber": "668866",
+        "chineseItemName": "琥珀核桃",
+        "englishItemName": "AMBER WALNUTS",
+        "description": "Sweet walnuts with an amber coating.",
+        "tags": ["琥珀", "核桃"]
+      },
+      {
+        "itemNumber": "670329",
+        "chineseItemName": "韓國紅豆核桃糕",
+        "englishItemName": "KOREAN RED BEAN WALNUT",
+        "description": "A sweet Korean cake with red bean and walnut.",
+        "tags": ["韓國", "紅豆", "核桃", "糕"]
+      },
+      {
+        "itemNumber": "671083",
+        "chineseItemName": "韓式脆米片",
+        "englishItemName": "KOREAN CRISPY RICE",
+        "description": "Crispy rice snacks, Korean style.",
+        "tags": ["韓式", "脆米片"]
+      },
+      {
+        "itemNumber": "673546",
+        "chineseItemName": "綠茶曲奇",
+        "englishItemName": "GREEN TEA COOKIES",
+        "description": "Sweet cookies with green tea flavor.",
+        "tags": ["綠茶", "曲奇"]
+      },
+      {
+        "itemNumber": "673627",
+        "chineseItemName": "豆沙糯米糍",
+        "englishItemName": "RED BEAN MOCHI",
+        "description": "Sweet mochi with red bean filling.",
+        "tags": ["豆沙", "糯米糍"]
+      },
+      {
+        "itemNumber": "673628",
+        "chineseItemName": "花生糯米糍",
+        "englishItemName": "PEANUT MOCHI",
+        "description": "Sweet mochi with peanut filling.",
+        "tags": ["花生", "糯米糍"]
+      },
+      {
+        "itemNumber": "674749",
+        "chineseItemName": "瑞士卷加柏仙奴",
+        "englishItemName": "CAPPUCCINO SWISS ROLL",
+        "description": "A sweet Swiss roll with cappuccino flavor.",
+        "tags": ["瑞士卷", "加柏仙奴"]
+      },
+      {
+        "itemNumber": "675474",
+        "chineseItemName": "麻薯球-乳酪",
+        "englishItemName": "MOCHI BALL - CHEESE",
+        "description": "Sweet mochi balls with cheese filling.",
+        "tags": ["麻薯", "球", "乳酪"]
+      },
+      {
+        "itemNumber": "676717",
+        "chineseItemName": "杯子蛋糕（牛奶）",
+        "englishItemName": "MILK CUPCAKE",
+        "description": "A sweet cupcake with milk flavor.",
+        "tags": ["杯子蛋糕", "牛奶"]
+      },
+      {
+        "itemNumber": "676767",
+        "chineseItemName": "日本小麻薯",
+        "englishItemName": "JAPANESE MOCHI W/ SESAME",
+        "description": "Small Japanese mochi with sesame filling.",
+        "tags": ["日本", "小麻薯"]
+      },
+      {
+        "itemNumber": "677105",
+        "chineseItemName": "香蕉紅豆糕",
+        "englishItemName": "BANANA RED BEAN CAKE",
+        "description": "A sweet cake with banana and red bean flavor.",
+        "tags": ["香蕉", "紅豆", "糕"]
+      },
+      {
+        "itemNumber": "677115",
+        "chineseItemName": "綠茶紅豆糕",
+        "englishItemName": "GREEN TEA RED BEAN CAKE",
+        "description": "A sweet cake with green tea and red bean flavor.",
+        "tags": ["綠茶", "紅豆", "糕"]
+      },
+      {
+        "itemNumber": "677620",
+        "chineseItemName": "蔓越莓鬆餅",
+        "englishItemName": "CRANBERRY MUFFIN",
+        "description": "A sweet muffin with cranberry flavor.",
+        "tags": ["蔓越莓", "鬆餅"]
+      },
+      {
+        "itemNumber": "681668",
+        "chineseItemName": "層層提拉米蘇",
+        "englishItemName": "FRESH CREAM TIRAMISU",
+        "description": "A sweet tiramisu with fresh cream.",
+        "tags": ["提拉米蘇", "鮮奶油"]
+      },
+      {
+        "itemNumber": "681676",
+        "chineseItemName": "韓式大顆爆玉米花",
+        "englishItemName": "KOREAN POPCORN",
+        "description": "Large Korean style popcorn.",
+        "tags": ["韓式", "爆玉米花"]
+      },
+      {
+        "itemNumber": "684372",
+        "chineseItemName": "白菊印雞蛋瑞士卷",
+        "englishItemName": "SK SWISS ROLL - 4PC",
+        "description": "A pack of 4 sweet Swiss rolls with egg flavor.",
+        "tags": ["瑞士卷", "雞蛋"]
+      },
+      {
+        "itemNumber": "684373",
+        "chineseItemName": "白菊印抹茶瑞士卷",
+        "englishItemName": "SK MATCHA SWISS ROLL - 4PC",
+        "description": "A pack of 4 sweet Swiss rolls with matcha flavor.",
+        "tags": ["瑞士卷", "抹茶"]
+      },
+      {
+        "itemNumber": "684374",
+        "chineseItemName": "白菊印草莓瑞士卷",
+        "englishItemName": "SK STRAWBERRY SWISS ROLL - 4PC",
+        "description": "A pack of 4 sweet Swiss rolls with strawberry flavor.",
+        "tags": ["瑞士卷", "草莓"]
+      },
+      {
+        "itemNumber": "685442",
+        "chineseItemName": "綜合六入麻薯",
+        "englishItemName": "ASSORTED MOCHI - 6PCS",
+        "description": "A pack of 6 assorted mochi.",
+        "tags": ["綜合", "麻薯"]
+      },
+      {
+        "itemNumber": "685541",
+        "chineseItemName": "兩天包集錦",
+        "englishItemName": "SMALL BUN MIXED",
+        "description": "A mix of small buns.",
+        "tags": ["包", "集錦"]
+      },
+      {
+        "itemNumber": "686241",
+        "chineseItemName": "彩虹一口軟糕",
+        "englishItemName": "RAINBOW SOFT CAKE",
+        "description": "A bite-sized soft cake with rainbow colors.",
+        "tags": ["彩虹", "軟糕"]
+      },
+      {
+        "itemNumber": "686534",
+        "chineseItemName": "養顏桂花酒釀",
+        "englishItemName": "OSMANTHUS FLOWER RICE PUDDING",
+        "description": "A sweet rice pudding with osmanthus flower flavor.",
+        "tags": ["桂花", "酒釀"]
+      },
+      {
+        "itemNumber": "686908",
+        "chineseItemName": "綠豆糕",
+        "englishItemName": "GREEN BEAN CAKE",
+        "description": "A sweet green bean cake.",
+        "tags": ["綠豆", "糕"]
+      },
+      {
+        "itemNumber": "687225",
+        "chineseItemName": "梅花糕",
+        "englishItemName": "PLUM BLOSSOM CAKE",
+        "description": "A sweet cake with plum blossom flavor.",
+        "tags": ["梅花", "糕"]
+      },
+      {
+        "itemNumber": "688378",
+        "chineseItemName": "雞尾包",
+        "englishItemName": "COCONUT BUN",
+        "description": "A sweet bun with coconut filling.",
+        "tags": ["雞尾", "包"]
+      },
+      {
+        "itemNumber": "688383",
+        "chineseItemName": "豆沙包",
+        "englishItemName": "RED BEAN BUN",
+        "description": "A sweet bun with red bean filling.",
+        "tags": ["豆沙", "包"]
+      },
+      {
+        "itemNumber": "688390",
+        "chineseItemName": "菠蘿紅豆包-港式",
+        "englishItemName": "RED BEAN BOLO BUN (HK)",
+        "description": "A Hong Kong style bolo bun with red bean filling.",
+        "tags": ["菠蘿", "紅豆", "包", "港式"]
+      },
+      {
+        "itemNumber": "688392",
+        "chineseItemName": "菠蘿奶黃包- 港式",
+        "englishItemName": "CUSTARD CREAM BOLO BUN",
+        "description": "A Hong Kong style bolo bun with custard cream filling.",
+        "tags": ["菠蘿", "奶黃", "包", "港式"]
+      },
+      {
+        "itemNumber": "688393",
+        "chineseItemName": "菠蘿椰絲包-港式",
+        "englishItemName": "COCONUT BOLO BUN - HK",
+        "description": "A Hong Kong style bolo bun with coconut filling.",
+        "tags": ["菠蘿", "椰絲", "包", "港式"]
+      },
+      {
+        "itemNumber": "688399",
+        "chineseItemName": "菠蘿杏片奶油包",
+        "englishItemName": "BUTTER CREAM BOLO BUN",
+        "description": "A bolo bun with butter cream and almond slices.",
+        "tags": ["菠蘿", "杏片", "奶油", "包"]
+      },
+      {
+        "itemNumber": "688400",
+        "chineseItemName": "台式菠蘿包",
+        "englishItemName": "BOLO BUN (TW)",
+        "description": "A Taiwanese style bolo bun.",
+        "tags": ["菠蘿", "包", "台式"]
+      },
+      {
+        "itemNumber": "688401",
+        "chineseItemName": "港式菠蘿包",
+        "englishItemName": "BOLO BUN (HK)",
+        "description": "A Hong Kong style bolo bun.",
+        "tags": ["菠蘿", "包", "港式"]
+      },
+      {
+        "itemNumber": "688405",
+        "chineseItemName": "杏片椰絲包",
+        "englishItemName": "COCONUT BUN W/SLICE",
+        "description": "A coconut bun with almond slices.",
+        "tags": ["杏片", "椰絲", "包"]
+      },
+      {
+        "itemNumber": "688418",
+        "chineseItemName": "叉燒包",
+        "englishItemName": "BBQ PORK BUN",
+        "description": "A savory bun with BBQ pork filling.",
+        "tags": ["叉燒", "包"]
+      },
+      {
+        "itemNumber": "688419",
+        "chineseItemName": "菠蘿叉燒包",
+        "englishItemName": "BBQ PORK BOLO BUN",
+        "description": "A bolo bun with BBQ pork filling.",
+        "tags": ["菠蘿", "叉燒", "包"]
+      },
+      {
+        "itemNumber": "688420",
+        "chineseItemName": "起酥叉燒包",
+        "englishItemName": "BBQ PORK BUN W/ PUFF",
+        "description": "A puff pastry bun with BBQ pork filling.",
+        "tags": ["起酥", "叉燒", "包"]
+      },
+      {
+        "itemNumber": "688421",
+        "chineseItemName": "肉鬆包",
+        "englishItemName": "DRIED PORK BUN",
+        "description": "A savory bun with dried pork filling.",
+        "tags": ["肉鬆", "包"]
+      },
+      {
+        "itemNumber": "688422",
+        "chineseItemName": "海苔肉鬆包",
+        "englishItemName": "DRIED PORK & SEAWEED BUN",
+        "description": "A savory bun with dried pork and seaweed filling.",
+        "tags": ["海苔", "肉鬆", "包"]
+      },
+      {
+        "itemNumber": "688423",
+        "chineseItemName": "海苔肉鬆卷",
+        "englishItemName": "DRIED PORK SEAWEED ROLL",
+        "description": "A savory roll with dried pork and seaweed filling.",
+        "tags": ["海苔", "肉鬆", "卷"]
+      },
+      {
+        "itemNumber": "688430",
+        "chineseItemName": "火腿蛋包",
+        "englishItemName": "HAM & EGG BUN",
+        "description": "A savory bun with ham and egg filling.",
+        "tags": ["火腿", "蛋", "包"]
+      },
+      {
+        "itemNumber": "688436",
+        "chineseItemName": "咖哩牛肉包",
+        "englishItemName": "CURRY BEEF BUN",
+        "description": "A savory bun with curry beef filling.",
+        "tags": ["咖哩", "牛肉", "包"]
+      },
+      {
+        "itemNumber": "688492",
+        "chineseItemName": "蔥花肉鬆包",
+        "englishItemName": "DRIED PORK & GREEN ONION",
+        "description": "A savory bun with dried pork and green onion filling.",
+        "tags": ["蔥花", "肉鬆", "包"]
+      },
+      {
+        "itemNumber": "688711",
+        "chineseItemName": "台式迷你老婆餅-6件",
+        "englishItemName": "MINI WIFE CAKE - 6 PCS",
+        "description": "A pack of 6 mini Taiwanese style wife cakes.",
+        "tags": ["台式", "老婆餅"]
+      },
+      {
+        "itemNumber": "688960",
+        "chineseItemName": "紅白大福",
+        "englishItemName": "RED & WHITE MOCHI",
+        "description": "Sweet mochi with red and white filling.",
+        "tags": ["紅白", "大福"]
+      },
+      {
+        "itemNumber": "691018",
+        "chineseItemName": "芝麻紅豆包",
+        "englishItemName": "SESAME RED BEAN BUN",
+        "description": "A sweet bun with sesame and red bean filling.",
+        "tags": ["芝麻", "紅豆", "包"]
+      },
+      {
+        "itemNumber": "692842",
+        "chineseItemName": "6件冷",
+        "englishItemName": "HOT DELI (6 PC)",
+        "description": "Hot deli items, 6 pieces.",
+        "tags": ["熱櫃", "產品"]
+      },
+      {
+        "itemNumber": "692980",
+        "chineseItemName": "法式小包件裝",
+        "englishItemName": "MINI BAGUETTE 5S",
+        "description": "A pack of 5 mini French baguettes.",
+        "tags": ["法式", "小包"]
+      },
+      {
+        "itemNumber": "693879",
+        "chineseItemName": "蛋糕堡（紅豆）",
+        "englishItemName": "COCONUT RED BEAN",
+        "description": "A sweet cake with coconut and red bean filling.",
+        "tags": ["蛋糕", "紅豆"]
+      },
+      {
+        "itemNumber": "695452",
+        "chineseItemName": "黃金小石頭",
+        "englishItemName": "GOLDEN LITTLE STONES",
+        "description": "Sweet and crunchy golden little stones.",
+        "tags": ["黃金", "小石頭"]
+      },
+      {
+        "itemNumber": "696597",
+        "chineseItemName": "杏仁芝麻糖",
+        "englishItemName": "ALMOND SESAME CANDY",
+        "description": "Sweet candy with almond and sesame.",
+        "tags": ["杏仁", "芝麻", "糖"]
+      },
+      {
+        "itemNumber": "696598",
+        "chineseItemName": "蔓越莓花生糖",
+        "englishItemName": "CRANBERRY PEANUT CANDY",
+        "description": "Sweet candy with cranberry and peanut.",
+        "tags": ["蔓越莓", "花生", "糖"]
+      },
+      {
+        "itemNumber": "696983",
+        "chineseItemName": "綠茶酥",
+        "englishItemName": "GREEN TEA PASTRY",
+        "description": "A sweet pastry with green tea flavor.",
+        "tags": ["綠茶", "酥"]
+      },
+      {
+        "itemNumber": "697227",
+        "chineseItemName": "椰子西米露",
+        "englishItemName": "COCONUT TAPIOCA CUP",
+        "description": "A sweet tapioca dessert with coconut flavor.",
+        "tags": ["椰子", "西米露"]
+      },
+      {
+        "itemNumber": "697233",
+        "chineseItemName": "蜜瓜西米露",
+        "englishItemName": "HONEY DEW TAPIOCA CUP",
+        "description": "A sweet tapioca dessert with honey dew flavor.",
+        "tags": ["蜜瓜", "西米露"]
+      },
+      {
+        "itemNumber": "700350",
+        "chineseItemName": "芋頭糯米糍",
+        "englishItemName": "TARO MOCHI",
+        "description": "Sweet mochi with taro filling.",
+        "tags": ["芋頭", "糯米糍"]
+      },
+      {
+        "itemNumber": "701220",
+        "chineseItemName": "方格小餅",
+        "englishItemName": "SQUARE COOKIES",
+        "description": "Sweet square-shaped cookies.",
+        "tags": ["方格", "小餅"]
+      },
+      {
+        "itemNumber": "701458",
+        "chineseItemName": "韓國QQ麵包-5件",
+        "englishItemName": "KOREAN QQ BREAD - 5 PCS",
+        "description": "A pack of 5 Korean QQ bread.",
+        "tags": ["韓國", "QQ", "麵包"]
+      },
+      {
+        "itemNumber": "703507",
+        "chineseItemName": "迷你牛角包-朱古力",
+        "englishItemName": "MINI CHOCOLATE CROISSANT",
+        "description": "Mini croissants with chocolate filling.",
+        "tags": ["迷你", "牛角包", "朱古力"]
+      },
+      {
+        "itemNumber": "703644",
+        "chineseItemName": "6件奶油蛋糕切件組",
+        "englishItemName": "ASSORTED BUTTER CAKE PLATTER",
+        "description": "A platter of assorted butter cake slices.",
+        "tags": ["奶油", "蛋糕", "切件"]
+      },
+      {
+        "itemNumber": "703668",
+        "chineseItemName": "6件慕斯切件組",
+        "englishItemName": "ASSORTED MOUSSE CAKE PLATTER",
+        "description": "A platter of assorted mousse cake slices.",
+        "tags": ["慕斯", "蛋糕", "切件"]
+      },
+      {
+        "itemNumber": "704002",
+        "chineseItemName": "鳳梨蛋糕",
+        "englishItemName": "PINEAPPLE CAKE",
+        "description": "A sweet cake with pineapple flavor.",
+        "tags": ["鳳梨", "蛋糕"]
+      },
+      {
+        "itemNumber": "704738",
+        "chineseItemName": "8\"草莓派對",
+        "englishItemName": "8\" STRAWBERRY PARTY",
+        "description": "An 8-inch cake with fresh strawberries.",
+        "tags": ["草莓", "蛋糕"]
+      },
+      {
+        "itemNumber": "705514",
+        "chineseItemName": "白菊印巧克力瑞士卷",
+        "englishItemName": "SK CHOCOLATE SWISS ROLL - 4PC",
+        "description": "A pack of 4 sweet Swiss rolls with chocolate flavor.",
+        "tags": ["瑞士卷", "巧克力"]
+      },
+      {
+        "itemNumber": "705516",
+        "chineseItemName": "韓式爆米花",
+        "englishItemName": "KOREAN POPCORN",
+        "description": "Sweet and crunchy Korean style popcorn.",
+        "tags": ["韓式", "爆米花"]
+      },
+      {
+        "itemNumber": "706589",
+        "chineseItemName": "蛋糕堡（椰絲）",
+        "englishItemName": "COCONUT",
+        "description": "A sweet cake with coconut flavor.",
+        "tags": ["蛋糕", "椰絲"]
+      },
+      {
+        "itemNumber": "707241",
+        "chineseItemName": "泔雞蛋色",
+        "englishItemName": "EGG YOLK COLOR",
+        "description": "A savory item with egg yolk color.",
+        "tags": ["雞蛋", "色"]
+      },
+      {
+        "itemNumber": "710509",
+        "chineseItemName": "巧克力酥皮蛋糕",
+        "englishItemName": "CHOCOLATE PUFF PASTRY CAKE",
+        "description": "A sweet cake with chocolate and puff pastry.",
+        "tags": ["巧克力", "酥皮", "蛋糕"]
+      },
+      {
+        "itemNumber": "711945",
+        "chineseItemName": "馬拉糕-原味",
+        "englishItemName": "MALAY SWEET STEAMED CAKE",
+        "description": "A sweet and fluffy Malay steamed cake.",
+        "tags": ["馬拉糕", "原味"]
+      },
+      {
+        "itemNumber": "713748",
+        "chineseItemName": "朱古力牛角包-4件",
+        "englishItemName": "CHOCOLATE CROISSANT - 4PCS",
+        "description": "A pack of 4 croissants with chocolate filling.",
+        "tags": ["朱古力", "牛角包"]
+      },
+      {
+        "itemNumber": "714330",
+        "chineseItemName": "西班",
+        "englishItemName": "SPANISH BREAD",
+        "description": "A sweet and fluffy Spanish bread.",
+        "tags": ["西班", "麵包"]
+      },
+      {
+        "itemNumber": "717416",
+        "chineseItemName": "白菊印虎紋瑞士卷",
+        "englishItemName": "SK MARBLE SWISS ROLL - 4PC",
+        "description": "A pack of 4 sweet Swiss rolls with marble pattern.",
+        "tags": ["瑞士卷", "虎紋"]
+      },
+      {
+        "itemNumber": "718547",
+        "chineseItemName": "日式花卷",
+        "englishItemName": "JAPANESE FLORAL ROLL",
+        "description": "A sweet roll with a floral pattern, Japanese style.",
+        "tags": ["日式", "花卷"]
+      },
+      {
+        "itemNumber": "723280",
+        "chineseItemName": "椰絲卷",
+        "englishItemName": "COCONUT ROLL",
+        "description": "A sweet roll with coconut filling.",
+        "tags": ["椰絲", "卷"]
+      },
+      {
+        "itemNumber": "730012",
+        "chineseItemName": "綠茶酥皮蛋糕",
+        "englishItemName": "GREEN TEA PUFF PASTRY CAKE",
+        "description": "A sweet cake with green tea and puff pastry.",
+        "tags": ["綠茶", "酥皮", "蛋糕"]
+      },
+      {
+        "itemNumber": "732034",
+        "chineseItemName": "迷你椰絲卷",
+        "englishItemName": "MINI COCONUT ROLL",
+        "description": "A mini roll with coconut filling.",
+        "tags": ["迷你", "椰絲", "卷"]
+      },
+      {
+        "itemNumber": "732670",
+        "chineseItemName": "紅豆白糖麻薯",
+        "englishItemName": "RED BEAN SUGAR MOCHI",
+        "description": "Sweet mochi with red bean and sugar filling.",
+        "tags": ["紅豆", "白糖", "麻薯"]
+      },
+      {
+        "itemNumber": "732671",
+        "chineseItemName": "芝麻白糖甜麻薯",
+        "englishItemName": "SESAME SUGAR MOCHI",
+        "description": "Sweet mochi with sesame and sugar filling.",
+        "tags": ["芝麻", "白糖", "麻薯"]
+      },
+      {
+        "itemNumber": "732793",
+        "chineseItemName": "原味丹麥菠蘿",
+        "englishItemName": "CRISPY TOP DANISH BOLO BUN",
+        "description": "A Danish bolo bun with a crispy top.",
+        "tags": ["丹麥", "菠蘿"]
+      },
+      {
+        "itemNumber": "732798",
+        "chineseItemName": "巧克力菠蘿長奶酥",
+        "englishItemName": "CHOCOLATE COOKIE CRUST DANISH",
+        "description": "A Danish pastry with chocolate cookie crust.",
+        "tags": ["巧克力", "菠蘿", "奶酥"]
+      },
+      {
+        "itemNumber": "732799",
+        "chineseItemName": "咖啡菠蘿長奶酥",
+        "englishItemName": "COFFEE COOKIE CRUST DANISH",
+        "description": "A Danish pastry with coffee cookie crust.",
+        "tags": ["咖啡", "菠蘿", "奶酥"]
+      },
+      {
+        "itemNumber": "732802",
+        "chineseItemName": "牛奶菠蘿長奶酥",
+        "englishItemName": "ORIGINAL COOKIE CRUST DANISH",
+        "description": "A Danish pastry with original cookie crust.",
+        "tags": ["牛奶", "菠蘿", "奶酥"]
+      },
+      {
+        "itemNumber": "733411",
+        "chineseItemName": "花生白糖甜麻薯",
+        "englishItemName": "PEANUT SUGAR MOCHI",
+        "description": "Sweet mochi with peanut and sugar filling.",
+        "tags": ["花生", "白糖", "麻薯"]
+      },
+      {
+        "itemNumber": "734836",
+        "chineseItemName": "港式老公餅",
+        "englishItemName": "HONG KONG STYLE HUSBAND CAKE",
+        "description": "A traditional Hong Kong style husband cake.",
+        "tags": ["港式", "老公餅"]
+      },
+      {
+        "itemNumber": "735485",
+        "chineseItemName": "傳統牛舌餅",
+        "englishItemName": "SUGAR PASTRY",
+        "description": "A traditional sugar pastry.",
+        "tags": ["牛舌餅", "傳統"]
+      },
+      {
+        "itemNumber": "735715",
+        "chineseItemName": "丹麥土司",
+        "englishItemName": "DANISH TOAST",
+        "description": "A sweet and fluffy Danish toast.",
+        "tags": ["丹麥", "土司"]
+      },
+      {
+        "itemNumber": "736535",
+        "chineseItemName": "光酥餅",
+        "englishItemName": "CRISPY BISCUIT",
+        "description": "A sweet and crispy biscuit.",
+        "tags": ["光酥餅"]
+      },
+      {
+        "itemNumber": "737156",
+        "chineseItemName": "香草迷你蛋糕",
+        "englishItemName": "VANILLA MINI CAKE",
+        "description": "A sweet mini cake with vanilla flavor.",
+        "tags": ["香草", "迷你", "蛋糕"]
+      },
+      {
+        "itemNumber": "737157",
+        "chineseItemName": "巧克力迷你蛋糕",
+        "englishItemName": "CHOCOLATE MINI CAKE",
+        "description": "A sweet mini cake with chocolate flavor.",
+        "tags": ["巧克力", "迷你", "蛋糕"]
+      },
+      {
+        "itemNumber": "738668",
+        "chineseItemName": "牛耳餅",
+        "englishItemName": "OX EAR COOKIE",
+        "description": "A sweet and crispy cookie shaped like an ox ear.",
+        "tags": ["牛耳", "餅"]
+      },
+      {
+        "itemNumber": "738675",
+        "chineseItemName": "傳統雞仔餅",
+        "englishItemName": "TRADITIONAL CHICKEN BISCUIT",
+        "description": "A traditional sweet biscuit with chicken flavor.",
+        "tags": ["雞仔", "餅"]
+      },
+      {
+        "itemNumber": "740277",
+        "chineseItemName": "富士山包",
+        "englishItemName": "FUJI MOUNTAIN BUN",
+        "description": "A sweet bun shaped like Mount Fuji.",
+        "tags": ["富士山", "包"]
+      },
+      {
+        "itemNumber": "740283",
+        "chineseItemName": "丹麥長條紅豆",
+        "englishItemName": "RED BEAN DANISH",
+        "description": "A Danish pastry with red bean filling.",
+        "tags": ["丹麥", "紅豆"]
+      },
+      {
+        "itemNumber": "740630",
+        "chineseItemName": "皇家蛋糕-芒果",
+        "englishItemName": "MANGO BAR",
+        "description": "A sweet bar cake with mango flavor.",
+        "tags": ["皇家", "蛋糕", "芒果"]
+      },
+      {
+        "itemNumber": "740646",
+        "chineseItemName": "皇家蛋糕-提拉米蘇",
+        "englishItemName": "TIRAMISU BAR",
+        "description": "A sweet bar cake with tiramisu flavor.",
+        "tags": ["皇家", "蛋糕", "提拉米蘇"]
+      },
+      {
+        "itemNumber": "740698",
+        "chineseItemName": "椰子球",
+        "englishItemName": "COCONUT BALL",
+        "description": "A sweet ball with coconut flavor.",
+        "tags": ["椰子", "球"]
+      },
+      {
+        "itemNumber": "740708",
+        "chineseItemName": "臺式傳統手工喜餅",
+        "englishItemName": "TAIWANESE TRADITIONAL HANDMADE WEDDING COOKIE",
+        "description": "A traditional Taiwanese handmade wedding cookie.",
+        "tags": ["臺式", "傳統", "手工", "喜餅"]
+      },
+      {
+        "itemNumber": "741925",
+        "chineseItemName": "檸檬虎皮蛋糕",
+        "englishItemName": "LEMON EGG YOLK",
+        "description": "A sweet cake with lemon and egg yolk flavor.",
+        "tags": ["檸檬", "虎皮", "蛋糕"]
+      },
+      {
+        "itemNumber": "743391",
+        "chineseItemName": "丹麥椰子包",
+        "englishItemName": "COCONUT DANISH",
+        "description": "A Danish pastry with coconut filling.",
+        "tags": ["丹麥", "椰子"]
+      },
+      {
+        "itemNumber": "744471",
+        "chineseItemName": "琥珀腰果",
+        "englishItemName": "AMBER CASHEWS",
+        "description": "Sweet cashews with an amber coating.",
+        "tags": ["琥珀", "腰果"]
+      },
+      {
+        "itemNumber": "744472",
+        "chineseItemName": "純正南棗核桃糕",
+        "englishItemName": "PURE DATE WALNUT CAKE",
+        "description": "A sweet cake with pure date and walnut flavor.",
+        "tags": ["南棗", "核桃", "糕"]
+      },
+      {
+        "itemNumber": "744473",
+        "chineseItemName": "紅棗桂圓核桃糕",
+        "englishItemName": "DATE LONGAN WALNUT CAKE",
+        "description": "A sweet cake with date, longan, and walnut flavor.",
+        "tags": ["紅棗", "桂圓", "核桃", "糕"]
+      },
+      {
+        "itemNumber": "747795",
+        "chineseItemName": "日式蒸果子-綜合",
+        "englishItemName": "JPN STEAMED - MIX FLAVOR",
+        "description": "A mix of Japanese steamed sweets with various flavors.",
+        "tags": ["日式", "蒸果子", "綜合"]
+      },
+      {
+        "itemNumber": "749512",
+        "chineseItemName": "8\"拿破崙",
+        "englishItemName": "8\" NAPOLEON",
+        "description": "An 8-inch Napoleon cake.",
+        "tags": ["拿破崙", "蛋糕"]
+      },
+      {
+        "itemNumber": "749524",
+        "chineseItemName": "蜜盎瑪德蕾貝殼",
+        "englishItemName": "HONEY MADELEINE",
+        "description": "Sweet madeleine cakes with honey flavor.",
+        "tags": ["蜜盎", "瑪德蕾", "貝殼"]
+      },
+      {
+        "itemNumber": "752337",
+        "chineseItemName": "6\"原味芝士",
+        "englishItemName": "6\" CHEESE",
+        "description": "A 6-inch cheese cake with original flavor.",
+        "tags": ["芝士", "蛋糕"]
+      },
+      {
+        "itemNumber": "752355",
+        "chineseItemName": "金盆迎賓慕斯蛋糕組",
+        "englishItemName": "GOLDEN MOUSSE CAKE PLATTER",
+        "description": "A platter of assorted mousse cakes.",
+        "tags": ["金盆", "迎賓", "慕斯", "蛋糕"]
+      },
+      {
+        "itemNumber": "752359",
+        "chineseItemName": "傳統花生糖",
+        "englishItemName": "TRADITIONAL PEANUT CANDY",
+        "description": "Sweet traditional peanut candy.",
+        "tags": ["傳統", "花生", "糖"]
+      },
+      {
+        "itemNumber": "752391",
+        "chineseItemName": "傳統芝麻糖",
+        "englishItemName": "TRADITIONAL SESAME CANDY",
+        "description": "Sweet traditional sesame candy.",
+        "tags": ["傳統", "芝麻", "糖"]
+      },
+      {
+        "itemNumber": "755224",
+        "chineseItemName": "黑芝麻花生糖",
+        "englishItemName": "BLACK SESAME PEANUT CANDY",
+        "description": "Sweet candy with black sesame and peanut.",
+        "tags": ["黑芝麻", "花生", "糖"]
+      },
+      {
+        "itemNumber": "755575",
+        "chineseItemName": "韓式鬆餅",
+        "englishItemName": "KEVIN’S WAFFLES",
+        "description": "Sweet Korean style waffles.",
+        "tags": ["韓式", "鬆餅"]
+      },
+      {
+        "itemNumber": "755576",
+        "chineseItemName": "韓式大魚",
+        "englishItemName": "KEVIN’S RED BEAN TAIYAKI",
+        "description": "Sweet Korean style taiyaki with red bean filling.",
+        "tags": ["韓式", "大魚", "紅豆"]
+      },
+      {
+        "itemNumber": "758973",
+        "chineseItemName": "皇冠麵包",
+        "englishItemName": "SWEET MILK BREAD",
+        "description": "A sweet and soft milk bread.",
+        "tags": ["皇冠", "麵包"]
+      },
+      {
+        "itemNumber": "759938",
+        "chineseItemName": "爆谷提拉米蘇",
+        "englishItemName": "POPCORN TIRAMISU",
+        "description": "A sweet tiramisu with popcorn flavor.",
+        "tags": ["爆谷", "提拉米蘇"]
+      },
+      {
+        "itemNumber": "761623",
+        "chineseItemName": "華爾茲布丁奶酪",
+        "englishItemName": "CHEESE PUDDING DANISH",
+        "description": "A Danish pastry with cheese pudding filling.",
+        "tags": ["布丁", "奶酪", "丹麥"]
+      },
+      {
+        "itemNumber": "761625",
+        "chineseItemName": "麻薯菠蘿黃金南瓜",
+        "englishItemName": "PUMPKIN SKIN DANISH BOLO BUN",
+        "description": "A Danish bolo bun with pumpkin skin and mochi filling.",
+        "tags": ["麻薯", "菠蘿", "南瓜"]
+      },
+      {
+        "itemNumber": "762694",
+        "chineseItemName": "肉鬆小餐包",
+        "englishItemName": "PORK FLOSS SMALL BUNS",
+        "description": "Small buns with pork floss filling.",
+        "tags": ["肉鬆", "小餐包"]
+      },
+      {
+        "itemNumber": "765517",
+        "chineseItemName": "火腿蔥花蛋皮包",
+        "englishItemName": "HAM EGG & GREEN ONION BUN",
+        "description": "A savory bun with ham, egg, and green onion filling.",
+        "tags": ["火腿", "蔥花", "蛋皮", "包"]
+      },
+      {
+        "itemNumber": "766112",
+        "chineseItemName": "諱式魚仔餅",
+        "englishItemName": "KEVIN’S TAIYAKI - 1PC",
+        "description": "A sweet taiyaki with fish-shaped filling.",
+        "tags": ["諱式", "魚仔餅"]
+      },
+      {
+        "itemNumber": "766415",
+        "chineseItemName": "菲律賓甜包",
+        "englishItemName": "PHILIPPINE SWEET BUN",
+        "description": "A sweet bun with a Philippine twist.",
+        "tags": ["菲律賓", "甜包"]
+      },
+      {
+        "itemNumber": "767775",
+        "chineseItemName": "日式蜂蜜蛋糕",
+        "englishItemName": "JAPANESE HONEY CAKE",
+        "description": "A sweet and fluffy Japanese honey cake.",
+        "tags": ["日式", "蜂蜜", "蛋糕"]
+      },
+      {
+        "itemNumber": "769254",
+        "chineseItemName": "大布朗尼",
+        "englishItemName": "BIG BROWNIE",
+        "description": "A large and rich chocolate brownie.",
+        "tags": ["布朗尼"]
+      },
+      {
+        "itemNumber": "769633",
+        "chineseItemName": "Q版新鮮果塔",
+        "englishItemName": "6PC FRESH FRUIT TART",
+        "description": "A pack of 6 fresh fruit tarts.",
+        "tags": ["新鮮", "果塔"]
+      },
+      {
+        "itemNumber": "769641",
+        "chineseItemName": "蓮蓉蛋黃酥",
+        "englishItemName": "LOTUS SEED PASTE EGG YOLK PASTRY",
+        "description": "A sweet pastry with lotus seed paste and egg yolk filling.",
+        "tags": ["蓮蓉", "蛋黃", "酥"]
+      },
+      {
+        "itemNumber": "769644",
+        "chineseItemName": "豆沙蛋黃酥",
+        "englishItemName": "RED BEAN PASTE EGG YOLK PASTRY",
+        "description": "A sweet pastry with red bean paste and egg yolk filling.",
+        "tags": ["豆沙", "蛋黃", "酥"]
+      },
+      {
+        "itemNumber": "769645",
+        "chineseItemName": "五仁蛋黃酥（白芝麻）",
+        "englishItemName": "FIVE NUT EGG YOLK PASTRY (WHITE SESAME)",
+        "description": "A sweet pastry with five nuts, egg yolk, and white sesame.",
+        "tags": ["五仁", "蛋黃", "白芝麻", "酥"]
+      },
+      {
+        "itemNumber": "769673",
+        "chineseItemName": "鮮芒果糯米糍",
+        "englishItemName": "MANGO MOCHI",
+        "description": "Sweet mochi with fresh mango filling.",
+        "tags": ["鮮芒果", "糯米糍"]
+      },
+      {
+        "itemNumber": "770562",
+        "chineseItemName": "鮮榴蓮糯米糍",
+        "englishItemName": "DURIAN MOCHI",
+        "description": "Sweet mochi with fresh durian filling.",
+        "tags": ["鮮榴蓮", "糯米糍"]
+      },
+      {
+        "itemNumber": "772212",
+        "chineseItemName": "蘋果派",
+        "englishItemName": "APPLE PIE",
+        "description": "A sweet pie with apple filling.",
+        "tags": ["蘋果", "派"]
+      },
+      {
+        "itemNumber": "772213",
+        "chineseItemName": "藍莓派",
+        "englishItemName": "BLUEBERRY PIE",
+        "description": "A sweet pie with blueberry filling.",
+        "tags": ["藍莓", "派"]
+      },
+      {
+        "itemNumber": "772789",
+        "chineseItemName": "白糖糕",
+        "englishItemName": "WHITE SUGAR CAKE",
+        "description": "A sweet cake with white sugar.",
+        "tags": ["白糖", "糕"]
+      },
+      {
+        "itemNumber": "775577",
+        "chineseItemName": "絲絨泡芙榴蓮",
+        "englishItemName": "DURIAN PUFF",
+        "description": "A sweet puff with durian filling.",
+        "tags": ["絲絨", "泡芙", "榴蓮"]
+      },
+      {
+        "itemNumber": "775578",
+        "chineseItemName": "絲絨泡芙-椰香",
+        "englishItemName": "COCONUT PUFF",
+        "description": "A sweet puff with coconut filling.",
+        "tags": ["絲絨", "泡芙", "椰香"]
+      },
+      {
+        "itemNumber": "776161",
+        "chineseItemName": "6\"芒果流心",
+        "englishItemName": "6\" MANGO LAVA",
+        "description": "A 6-inch cake with mango lava filling.",
+        "tags": ["芒果", "流心", "蛋糕"]
+      },
+      {
+        "itemNumber": "776696",
+        "chineseItemName": "芋頭酥皮蛋糕",
+        "englishItemName": "TARO PUFF PASTRY CAKE",
+        "description": "A sweet cake with taro and puff pastry.",
+        "tags": ["芋頭", "酥皮", "蛋糕"]
+      },
+      {
+        "itemNumber": "777213",
+        "chineseItemName": "龐氏什錦豆糕",
+        "englishItemName": "PANGS ASSORTED BEAN",
+        "description": "A mix of assorted bean cakes.",
+        "tags": ["龐氏", "什錦", "豆糕"]
+      },
+      {
+        "itemNumber": "777214",
+        "chineseItemName": "龐氏綠豆糕",
+        "englishItemName": "PANGS MUNG BEAN",
+        "description": "A sweet cake with mung bean flavor.",
+        "tags": ["龐氏", "綠豆", "糕"]
+      },
+      {
+        "itemNumber": "777215",
+        "chineseItemName": "豌豆黃",
+        "englishItemName": "YELLOW PEA",
+        "description": "A sweet dessert made from yellow peas.",
+        "tags": ["豌豆", "黃"]
+      },
+      {
+        "itemNumber": "777893",
+        "chineseItemName": "核桃紅豆餅",
+        "englishItemName": "WALNUT RED BEAN CAKE",
+        "description": "A sweet cake with walnut and red bean filling.",
+        "tags": ["核桃", "紅豆", "餅"]
+      },
+      {
+        "itemNumber": "777894",
+        "chineseItemName": "花生椰絲綠豆餅",
+        "englishItemName": "PEANUT COCONUT MUNG BEAN CAKE",
+        "description": "A sweet cake with peanut, coconut, and mung bean filling.",
+        "tags": ["花生", "椰絲", "綠豆", "餅"]
+      },
+      {
+        "itemNumber": "777895",
+        "chineseItemName": "去衣杏仁餅",
+        "englishItemName": "SKINLESS ALMOND CAKE",
+        "description": "A sweet cake made with skinless almonds.",
+        "tags": ["杏仁", "餅"]
+      },
+      {
+        "itemNumber": "779221",
+        "chineseItemName": "原味蒸蛋糕",
+        "englishItemName": "STEAMED CAKE",
+        "description": "A soft and fluffy steamed cake with original flavor.",
+        "tags": ["蒸", "蛋糕"]
+      },
+      {
+        "itemNumber": "779252",
+        "chineseItemName": "桂花紅豆綠豆糕",
+        "englishItemName": "MUNG BEAN",
+        "description": "A sweet cake with osmanthus, red bean, and mung bean filling.",
+        "tags": ["桂花", "紅豆", "綠豆", "糕"]
+      },
+      {
+        "itemNumber": "779405",
+        "chineseItemName": "乳酪布丁蛋糕",
+        "englishItemName": "CHEESE PUDDING",
+        "description": "A sweet cake with cheese pudding filling.",
+        "tags": ["乳酪", "布丁", "蛋糕"]
+      },
+      {
+        "itemNumber": "779406",
+        "chineseItemName": "半月燒",
+        "englishItemName": "CUSTARD SPONGE",
+        "description": "A sweet sponge cake with custard filling.",
+        "tags": ["半月", "燒"]
+      },
+      {
+        "itemNumber": "779407",
+        "chineseItemName": "半熟乳酪蛋糕",
+        "englishItemName": "CHEESE",
+        "description": "A half-baked cheese cake.",
+        "tags": ["乳酪", "蛋糕"]
+      },
+      {
+        "itemNumber": "779727",
+        "chineseItemName": "小麥園-鹹南乳蛋散",
+        "englishItemName": "SALTY EGG SNACK",
+        "description": "A savory snack with salty egg flavor.",
+        "tags": ["鹹", "南乳", "蛋散"]
+      },
+      {
+        "itemNumber": "779728",
+        "chineseItemName": "小麥園-甜蛋散",
+        "englishItemName": "SWEET EGG SNACK",
+        "description": "A sweet snack with egg flavor.",
+        "tags": ["甜", "蛋散"]
+      },
+      {
+        "itemNumber": "781160",
+        "chineseItemName": "蛋黃芝麻棒",
+        "englishItemName": "EGG YOLK SESAME STICK",
+        "description": "A sweet stick with egg yolk and sesame flavor.",
+        "tags": ["蛋黃", "芝麻", "棒"]
+      },
+      {
+        "itemNumber": "781162",
+        "chineseItemName": "原味芝麻棒",
+        "englishItemName": "ORIGINAL SESAME STICK",
+        "description": "A sweet stick with original sesame flavor.",
+        "tags": ["原味", "芝麻", "棒"]
+      },
+      {
+        "itemNumber": "781164",
+        "chineseItemName": "花生芝麻棒",
+        "englishItemName": "PEANUT SESAME STICK",
+        "description": "A sweet stick with peanut and sesame flavor.",
+        "tags": ["花生", "芝麻", "棒"]
+      },
+      {
+        "itemNumber": "782306",
+        "chineseItemName": "乳酪丹麥長條麵包",
+        "englishItemName": "CREAM CHEESE DANISH",
+        "description": "A Danish pastry with cream cheese filling.",
+        "tags": ["乳酪", "丹麥", "麵包"]
+      },
+      {
+        "itemNumber": "782621",
+        "chineseItemName": "雜糧水果歐包",
+        "englishItemName": "MULTIGRAIN BREAD W/ FRUIT",
+        "description": "A multigrain bread with fruit filling.",
+        "tags": ["雜糧", "水果", "歐包"]
+      },
+      {
+        "itemNumber": "782622",
+        "chineseItemName": "蔓越莓乳酪歐包",
+        "englishItemName": "CRANBERRY CREAM CHEESE BREAD",
+        "description": "A bread with cranberry and cream cheese filling.",
+        "tags": ["蔓越莓", "乳酪", "歐包"]
+      },
+      {
+        "itemNumber": "782639",
+        "chineseItemName": "金枕頭",
+        "englishItemName": "GOLDEN PILLOW",
+        "description": "A sweet and soft bread shaped like a pillow.",
+        "tags": ["金", "枕頭"]
+      },
+      {
+        "itemNumber": "782640",
+        "chineseItemName": "香橙乳酪歐包",
+        "englishItemName": "ORANGE CREAM CHEESE BREAD",
+        "description": "A bread with orange and cream cheese filling.",
+        "tags": ["香橙", "乳酪", "歐包"]
+      },
+      {
+        "itemNumber": "782780",
+        "chineseItemName": "切件蛋糕",
+        "englishItemName": "SLICED CAKE",
+        "description": "Slices of various cakes.",
+        "tags": ["切件", "蛋糕"]
+      },
+      {
+        "itemNumber": "785990",
+        "chineseItemName": "傳統雪花江米條",
+        "englishItemName": "TRADITIONAL SNOW RICE STICK",
+        "description": "A traditional sweet rice stick with a snow-like coating.",
+        "tags": ["傳統", "雪花", "江米條"]
+      },
+      {
+        "itemNumber": "785991",
+        "chineseItemName": "雲片糕",
+        "englishItemName": "CLOUD CAKE",
+        "description": "A sweet and fluffy cloud-like cake.",
+        "tags": ["雲片", "糕"]
+      },
+      {
+        "itemNumber": "785992",
+        "chineseItemName": "古早秘制棗糕",
+        "englishItemName": "TRADITIONAL DATE CAKE",
+        "description": "A traditional cake with date flavor.",
+        "tags": ["古早", "秘制", "棗糕"]
+      },
+      {
+        "itemNumber": "787016",
+        "chineseItemName": "紅豆餐包",
+        "englishItemName": "RED BEAN BUN",
+        "description": "A sweet bun with red bean filling.",
+        "tags": ["紅豆", "餐包"]
+      },
+      {
+        "itemNumber": "787017",
+        "chineseItemName": "芝士餐包",
+        "englishItemName": "CHEESE BUN",
+        "description": "A savory bun with cheese filling.",
+        "tags": ["芝士", "餐包"]
+      },
+      {
+        "itemNumber": "787018",
+        "chineseItemName": "紫芋餐包",
+        "englishItemName": "PURPLE YAM BUN",
+        "description": "A sweet bun with purple yam filling.",
+        "tags": ["紫芋", "餐包"]
+      },
+      {
+        "itemNumber": "787146",
+        "chineseItemName": "8\"原味芝士",
+        "englishItemName": "8\" CHEESE",
+        "description": "An 8-inch cheese cake with original flavor.",
+        "tags": ["芝士", "蛋糕"]
+      },
+      {
+        "itemNumber": "788094",
+        "chineseItemName": "芒果髒髒杯",
+        "englishItemName": "MANGO DIRTY CUP",
+        "description": "A sweet dessert cup with mango flavor.",
+        "tags": ["芒果", "髒髒", "杯"]
+      },
+      {
+        "itemNumber": "788247",
+        "chineseItemName": "10寸黑森林",
+        "englishItemName": "10\" BLACK FOREST",
+        "description": "A 10-inch Black Forest cake.",
+        "tags": ["黑森林", "蛋糕"]
+      },
+      {
+        "itemNumber": "788248",
+        "chineseItemName": "12寸黑森林",
+        "englishItemName": "12\" BLACK FOREST",
+        "description": "A 12-inch Black Forest cake.",
+        "tags": ["黑森林", "蛋糕"]
+      },
+      {
+        "itemNumber": "788265",
+        "chineseItemName": "12寸雜果",
+        "englishItemName": "12\" MIXED FRUIT",
+        "description": "A 12-inch cake with mixed fruit.",
+        "tags": ["雜果", "蛋糕"]
+      },
+      {
+        "itemNumber": "788276",
+        "chineseItemName": "8×12寸雜果",
+        "englishItemName": "8\" x 12\" MIXED FRUIT",
+        "description": "An 8\" x 12\" cake with mixed fruit.",
+        "tags": ["雜果", "蛋糕"]
+      },
+      {
+        "itemNumber": "788277",
+        "chineseItemName": "12 x 16寸雜果",
+        "englishItemName": "12\" x 16\" MIXED FRUIT",
+        "description": "A 12\" x 16\" cake with mixed fruit.",
+        "tags": ["雜果", "蛋糕"]
+      },
+      {
+        "itemNumber": "788278",
+        "chineseItemName": "16 x 24寸雜果",
+        "englishItemName": "16\" x 24\" MIXED FRUIT",
+        "description": "A 16\" x 24\" cake with mixed fruit.",
+        "tags": ["雜果", "蛋糕"]
+      },
+      {
+        "itemNumber": "788807",
+        "chineseItemName": "鮮果夾心蛋糕",
+        "englishItemName": "FRESH MIX FRUITS LAYER",
+        "description": "A layered cake with fresh mixed fruits.",
+        "tags": ["鮮果", "夾心", "蛋糕"]
+      },
+      {
+        "itemNumber": "790481",
+        "chineseItemName": "芝士日式蒸果子",
+        "englishItemName": "CHEESE STEAMED",
+        "description": "A Japanese style steamed dessert with cheese flavor.",
+        "tags": ["芝士", "日式", "蒸果子"]
+      },
+      {
+        "itemNumber": "790482",
+        "chineseItemName": "綠茶日式蒸果子",
+        "englishItemName": "GREEN TEA STEAMED",
+        "description": "A Japanese style steamed dessert with green tea flavor.",
+        "tags": ["綠茶", "日式", "蒸果子"]
+      },
+      {
+        "itemNumber": "790483",
+        "chineseItemName": "巧克力日式蒸果子",
+        "englishItemName": "CHOCOLATE STEAMED",
+        "description": "A Japanese style steamed dessert with chocolate flavor.",
+        "tags": ["巧克力", "日式", "蒸果子"]
+      },
+      {
+        "itemNumber": "790844",
+        "chineseItemName": "花型海綿蛋糕-2件",
+        "englishItemName": "FLOWER SHAPED SPONGE CAKE - 2PCS",
+        "description": "A pack of 2 flower-shaped sponge cakes.",
+        "tags": ["花型", "海綿", "蛋糕"]
+      },
+      {
+        "itemNumber": "791656",
+        "chineseItemName": "早餐餅",
+        "englishItemName": "BREAKFAST COOKIE",
+        "description": "A sweet and nutritious breakfast cookie.",
+        "tags": ["早餐", "餅"]
+      },
+      {
+        "itemNumber": "794226",
+        "chineseItemName": "蛋撻-1件",
+        "englishItemName": "EGG TART (1 PC)",
+        "description": "A single sweet egg tart.",
+        "tags": ["蛋撻"]
+      },
+      {
+        "itemNumber": "794228",
+        "chineseItemName": "榴蓮葡撻-6pc",
+        "englishItemName": "DURIAN PORTUGUESE TART (6 PC)",
+        "description": "A pack of 6 Portuguese tarts with durian filling.",
+        "tags": ["榴蓮", "葡撻"]
+      },
+      {
+        "itemNumber": "794293",
+        "chineseItemName": "金沙葡撻-6pc",
+        "englishItemName": "SALTED EGG YOLK PORTUGUESE TART (6 PC)",
+        "description": "A pack of 6 Portuguese tarts with salted egg yolk filling.",
+        "tags": ["金沙", "葡撻"]
+      },
+      {
+        "itemNumber": "794301",
+        "chineseItemName": "葡撻-1件",
+        "englishItemName": "PORTUGUESE TART (1 PC)",
+        "description": "A single Portuguese tart.",
+        "tags": ["葡撻"]
+      },
+      {
+        "itemNumber": "794780",
+        "chineseItemName": "笑口棗",
+        "englishItemName": "SMILING DATE",
+        "description": "A sweet and crispy date snack.",
+        "tags": ["笑口", "棗"]
+      },
+      {
+        "itemNumber": "794854",
+        "chineseItemName": "小麥園-原味江米條",
+        "englishItemName": "ORIGINAL RICE STICK",
+        "description": "A traditional rice stick with original flavor.",
+        "tags": ["小麥園", "原味", "江米條"]
+      },
+      {
+        "itemNumber": "794963",
+        "chineseItemName": "紫薯片",
+        "englishItemName": "PURPLE SWEET POTATO CHIPS",
+        "description": "Crispy chips made from purple sweet potatoes.",
+        "tags": ["紫薯", "片"]
+      },
+      {
+        "itemNumber": "796175",
+        "chineseItemName": "海苔小麻花",
+        "englishItemName": "SEAWEED TWISTED DOUGHNUT",
+        "description": "A sweet and savory twisted doughnut with seaweed.",
+        "tags": ["海苔", "小麻花"]
+      },
+      {
+        "itemNumber": "796177",
+        "chineseItemName": "原味小麻花",
+        "englishItemName": "ORIGINAL TWISTED DOUGHNUT",
+        "description": "A sweet and crispy twisted doughnut with original flavor.",
+        "tags": ["原味", "小麻花"]
+      },
+      {
+        "itemNumber": "796183",
+        "chineseItemName": "黑糖小麻花",
+        "englishItemName": "BROWN SUGAR TWISTED DOUGHNUT",
+        "description": "A sweet and crispy twisted doughnut with brown sugar.",
+        "tags": ["黑糖", "小麻花"]
+      },
+      {
+        "itemNumber": "796358",
+        "chineseItemName": "綜合蔬菜乾",
+        "englishItemName": "MIXED VEGETABLE CHIPS",
+        "description": "A mix of crispy vegetable chips.",
+        "tags": ["綜合", "蔬菜", "乾"]
+      },
+      {
+        "itemNumber": "022501",
+        "chineseItemName": "提子方包",
+        "englishItemName": "RAISIN BREAD",
+        "description": "A sweet bread with raisins.",
+        "tags": ["提子", "方包"]
+      },
+      {
+        "itemNumber": "022508",
+        "chineseItemName": "鮮奶方包",
+        "englishItemName": "MILK BREAD",
+        "description": "A soft and sweet milk bread.",
+        "tags": ["鮮奶", "方包"]
       },
       {
         "itemNumber": "022510",
         "chineseItemName": "鹹餐包六人",
         "englishItemName": "DINNER ROLLS-6PC",
+        "description": "A pack of 6 savory dinner rolls.",
         "tags": ["鹹", "餐包"]
-      },
-      {
-        "itemNumber": "686246",
-        "chineseItemName": "雞蛋小餐包",
-        "englishItemName": "EGG TRAY BUN",
-        "tags": ["雞蛋", "餐包"]
-      },
-      {
-        "itemNumber": "705881",
-        "chineseItemName": "蔥花肉鬆小餐包",
-        "englishItemName": "GREEN ONION DRY PORK",
-        "tags": ["蔥花", "肉鬆", "餐包"]
-      },
-      {
-        "itemNumber": "669679",
-        "chineseItemName": "迷你雞尾包 6件",
-        "englishItemName": "MINI COCONUT BUN",
-        "tags": ["迷你", "椰絲", "包"]
-      },
-      {
-        "itemNumber": "649801",
-        "chineseItemName": "小餐包",
-        "englishItemName": "PLAIN TRAY BUN",
-        "tags": ["小餐包"]
-      },
-      {
-        "itemNumber": "691059",
-        "chineseItemName": "提子餐包-6件",
-        "englishItemName": "RAISIN DINNER ROLL - 6PCS",
-        "tags": ["提子", "餐包"]
       },
       {
         "itemNumber": "022512",
         "chineseItemName": "提子小餐包",
         "englishItemName": "RAISIN TRAY BUN",
-        "tags": ["提子", "餐包"]
+        "description": "Small buns with raisins.",
+        "tags": ["提子", "小餐包"]
       },
       {
-        "itemNumber": "751147",
-        "chineseItemName": "芝麻餐包-6PCS",
-        "englishItemName": "SESAME DINNER ROLL- 6PCS",
-        "tags": ["芝麻", "餐包"]
-      },
-      {
-        "itemNumber": "681669",
-        "chineseItemName": "鮮奶排包",
-        "englishItemName": "MILK PLAIN LOAF",
-        "tags": ["鮮奶", "排包"]
-      },
-      {
-        "itemNumber": "022857",
-        "chineseItemName": "排包",
-        "englishItemName": "PLAIN LOAF",
-        "tags": ["排包"]
+        "itemNumber": "022513",
+        "chineseItemName": "60麥方包",
+        "englishItemName": "60 WHOLE WHEAT BREAD",
+        "description": "A healthy bread made with 60% whole wheat.",
+        "tags": ["60麥", "方包"]
       },
       {
         "itemNumber": "022650",
         "chineseItemName": "提子排包",
         "englishItemName": "RAISIN PLAIN LOAF",
+        "description": "A plain loaf with raisins.",
         "tags": ["提子", "排包"]
       },
       {
-        "itemNumber": "688973",
-        "chineseItemName": "比薩包",
-        "englishItemName": "PIZZA BUN",
-        "tags": ["披薩", "包"]
+        "itemNumber": "022654",
+        "chineseItemName": "法式芝士餐包六人",
+        "englishItemName": "CHEESE FRENCH BUN-6PC",
+        "description": "A pack of 6 French buns with cheese.",
+        "tags": ["法式", "芝士", "餐包"]
+      },
+      {
+        "itemNumber": "022749",
+        "chineseItemName": "多穀方包",
+        "englishItemName": "MULTI-GRAIN BREAD",
+        "description": "A healthy bread made with multiple grains.",
+        "tags": ["多穀", "方包"]
+      },
+      {
+        "itemNumber": "022857",
+        "chineseItemName": "排包",
+        "englishItemName": "PLAIN LOAF",
+        "description": "A plain loaf of bread.",
+        "tags": ["排包"]
+      },
+      {
+        "itemNumber": "022967",
+        "chineseItemName": "雞蛋甜方包",
+        "englishItemName": "SWEET EGG BREAD",
+        "description": "A sweet bread made with eggs.",
+        "tags": ["雞蛋", "甜", "方包"]
+      },
+      {
+        "itemNumber": "506023",
+        "chineseItemName": "整條鮮奶方包",
+        "englishItemName": "MILK LOAF",
+        "description": "A whole loaf of milk bread.",
+        "tags": ["鮮奶", "方包"]
+      },
+      {
+        "itemNumber": "508811",
+        "chineseItemName": "金沙奶黃泡芙麵包",
+        "englishItemName": "SALTED EGG YOLK PUFF",
+        "description": "A sweet puff with salted egg yolk filling.",
+        "tags": ["金沙", "奶黃", "泡芙"]
+      },
+      {
+        "itemNumber": "519734",
+        "chineseItemName": "紅豆椰絲吐司",
+        "englishItemName": "RED BEAN COCONUT BREAD",
+        "description": "A bread with red bean and coconut filling.",
+        "tags": ["紅豆", "椰絲", "吐司"]
+      },
+      {
+        "itemNumber": "520698",
+        "chineseItemName": "苧頭珍奶吐司",
+        "englishItemName": "TARO BREAD W/TAPIOCA",
+        "description": "A bread with taro and tapioca filling.",
+        "tags": ["苧頭", "珍奶", "吐司"]
+      },
+      {
+        "itemNumber": "525875",
+        "chineseItemName": "小麥胚芽南瓜籽吐炒",
+        "englishItemName": "WHEAT GERM & PUMPKIN",
+        "description": "A bread with wheat germ and pumpkin seeds.",
+        "tags": ["小麥胚芽", "南瓜籽", "吐炒"]
+      },
+      {
+        "itemNumber": "615574",
+        "chineseItemName": "椰絲方包",
+        "englishItemName": "COCONUT BREAD",
+        "description": "A bread with coconut filling.",
+        "tags": ["椰絲", "方包"]
+      },
+      {
+        "itemNumber": "649800",
+        "chineseItemName": "白方包",
+        "englishItemName": "PLAIN BREAD",
+        "description": "A plain loaf of bread.",
+        "tags": ["白", "方包"]
+      },
+      {
+        "itemNumber": "649801",
+        "chineseItemName": "小餐包",
+        "englishItemName": "PLAIN TRAY BUN",
+        "description": "Small plain buns.",
+        "tags": ["小餐包"]
+      },
+      {
+        "itemNumber": "668205",
+        "chineseItemName": "紅豆菠蘿方包",
+        "englishItemName": "RED BEAN BREAD",
+        "description": "A bread with red bean filling.",
+        "tags": ["紅豆", "菠蘿", "方包"]
+      },
+      {
+        "itemNumber": "668417",
+        "chineseItemName": "迷你叉燒包6件牛",
+        "englishItemName": "BBQ PORK BUN MINI",
+        "description": "A pack of 6 mini buns with BBQ pork filling.",
+        "tags": ["迷你", "叉燒", "包"]
+      },
+      {
+        "itemNumber": "669679",
+        "chineseItemName": "迷你雞尾包 6件",
+        "englishItemName": "MINI COCONUT BUN",
+        "description": "A pack of 6 mini buns with coconut filling.",
+        "tags": ["迷你", "雞尾", "包"]
+      },
+      {
+        "itemNumber": "677296",
+        "chineseItemName": "黑芝麻豆漿方包",
+        "englishItemName": "BLACK SESAME SOYMILK",
+        "description": "A bread made with black sesame and soymilk.",
+        "tags": ["黑芝麻", "豆漿", "方包"]
+      },
+      {
+        "itemNumber": "681669",
+        "chineseItemName": "鮮奶排包",
+        "englishItemName": "MILK PLAIN LOAF",
+        "description": "A plain loaf made with fresh milk.",
+        "tags": ["鮮奶", "排包"]
+      },
+      {
+        "itemNumber": "682791",
+        "chineseItemName": "去皮白方包",
+        "englishItemName": "PLAIN BREAD-NO CRUST",
+        "description": "A plain bread loaf without crust.",
+        "tags": ["去皮", "白", "方包"]
+      },
+      {
+        "itemNumber": "686246",
+        "chineseItemName": "雞蛋小餐包",
+        "englishItemName": "EGG TRAY BUN",
+        "description": "Small buns made with eggs.",
+        "tags": ["雞蛋", "小餐包"]
       },
       {
         "itemNumber": "688427",
         "chineseItemName": "腸仔包",
         "englishItemName": "SAUSAGE BUN",
+        "description": "A savory bun with sausage filling.",
         "tags": ["腸仔", "包"]
       },
       {
         "itemNumber": "688488",
         "chineseItemName": "吞拿魚包",
         "englishItemName": "TUNA BUN",
+        "description": "A savory bun with tuna filling.",
         "tags": ["吞拿魚", "包"]
-      }
-    ]
+      },
+      {
+        "itemNumber": "688973",
+        "chineseItemName": "比薩包",
+        "englishItemName": "PIZZA BUN",
+        "description": "A savory bun with pizza toppings.",
+        "tags": ["比薩", "包"]
+      },
+      {
+        "itemNumber": "691059",
+        "chineseItemName": "提子餐包-6件",
+        "englishItemName": "RAISIN DINNER ROLL - 6PCS",
+        "description": "A pack of 6 dinner rolls with raisins.",
+        "tags": ["提子", "餐包"]
+      },
+      {
+        "itemNumber": "697775",
+        "chineseItemName": "蔓越莓餐包 6PC",
+        "englishItemName": "CRANBERRY DINNER ROLLS",
+        "description": "A pack of 6 dinner rolls with cranberries.",
+        "tags": ["蔓越莓", "餐包"]
+      },
+      {
+        "itemNumber": "705881",
+        "chineseItemName": "蔥花肉鬆小餐包",
+        "englishItemName": "GREEN ONION DRY PORK",
+        "description": "Small buns with green onion and dried pork filling.",
+        "tags": ["蔥花", "肉鬆", "小餐包"]
+      },
+      {
+        "itemNumber": "751147",
+        "chineseItemName": "芝麻餐包-6PCS",
+        "englishItemName": "SESAME DINNER ROLL- 6PCS",
+        "description": "A pack of 6 dinner rolls with sesame.",
+        "tags": ["芝麻", "餐包"]
+      },
+      {
+        "itemNumber": "773227",
+        "chineseItemName": "豆腐方包",
+        "englishItemName": "TOFU BREAD",
+        "description": "A bread made with tofu.",
+        "tags": ["豆腐", "方包"]
+      },
+      {
+        "itemNumber": "777480",
+        "chineseItemName": "藜麥方包",
+        "englishItemName": "QUINOA WHEAT BREAD",
+        "description": "A healthy bread made with quinoa and wheat.",
+        "tags": ["藜麥", "方包"]
+      }  
+      
+  ]
+  
