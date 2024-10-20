@@ -1,4 +1,3 @@
-// Global variables
 let items = [];
 let frequentTags = [];
 
@@ -26,7 +25,7 @@ function initializeCustomTags() {
       ]);
       localStorage.setItem(CUSTOM_TAGS_KEY, customTags);
     }
-  
+
     if (window.location.pathname.endsWith('customtags.html')) {
       displayCustomTags();
     }
@@ -103,16 +102,16 @@ function displayFrequentTags() {
 function displayCustomTags() {
     const customTagsList = document.getElementById('custom_tags');
     const customTagsContainer = document.querySelector('#customTags .scroll-container');
-  
+
     const customTags = JSON.parse(localStorage.getItem(CUSTOM_TAGS_KEY) || '[]');
-  
+
     // Clear existing list items except the header
     if (customTagsList) {
       while (customTagsList.children.length > 1) {
         customTagsList.removeChild(customTagsList.lastChild);
       }
     }
-  
+
     // Add custom tags to the list
     customTags.sort((a, b) => a.order - b.order).forEach(tag => {
       if (customTagsList) {
@@ -128,7 +127,7 @@ function displayCustomTags() {
         `;
         customTagsList.appendChild(li);
       }
-  
+
       if (customTagsContainer) {
         const tagElement = document.createElement('div');
         tagElement.className = 'scroll-item';
@@ -137,7 +136,7 @@ function displayCustomTags() {
         customTagsContainer.appendChild(tagElement);
       }
     });
-  
+
     // Add event listeners to delete buttons
     if (customTagsList) {
       document.querySelectorAll('.delete-tag').forEach(button => {
@@ -154,7 +153,7 @@ function displayCustomTags() {
 function toggleTag(tag, tagElement) {
     const searchInput = document.getElementById('search');
     const currentTags = searchInput.value.split(' ').filter(t => t.length > 0);
-    
+
     if (currentTags.includes(tag)) {
         // Remove tag
         searchInput.value = currentTags.filter(t => t !== tag).join(' ');
@@ -164,7 +163,7 @@ function toggleTag(tag, tagElement) {
         searchInput.value = [...currentTags, tag].join(' ');
         tagElement.style.backgroundColor = '#4caf50';
     }
-    
+
     // Trigger search
     searchItems();
 }
@@ -172,7 +171,7 @@ function toggleTag(tag, tagElement) {
 function searchItems() {
     const searchInput = document.getElementById('search').value.toLowerCase();
     const keywords = searchInput.split(' ').filter(keyword => keyword.length > 0);
-    
+    console.log('searchItems function called');
     const filteredItems = items.filter(item => {
         return keywords.every(keyword =>
             item.chineseItemName.toLowerCase().includes(keyword) ||
@@ -180,7 +179,7 @@ function searchItems() {
             item.tags.some(tag => tag.toLowerCase().includes(keyword))
         );
     });
-
+    console.log('Keywords:', keywords); // Added this line
     displayResults(filteredItems);
     updateTagColors(keywords);
 }
@@ -282,13 +281,19 @@ return data.every(item =>
 }
 
 // Event listeners
-document.addEventListener('DOMContentLoaded', async function() {
-  // Initialize Materialize components
-  
-  M.AutoInit();
-  if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.register('service-worker.js');
+document.addEventListener('DOMContentLoaded',  function() {
+  console.log('DOM fully loaded');
+  const searchInput = document.getElementById('search');
+  if (searchInput) {
+      searchInput.addEventListener('input', searchItems);
+      console.log('Event listener added to search input');
+  } else {
+      console.error('Search input element not found');
   }
+  M.AutoInit();
+  // if ('serviceWorker' in navigator) {
+  //   navigator.serviceWorker.register('service-worker.js');
+  // }
   // Initialize custom tags
   initializeCustomTags();
 
