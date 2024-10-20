@@ -1,10 +1,10 @@
 {
-    "name": "Breads",
-    "short_name": "App",
+    "name": "BakeCheck",
+    "short_name": "BakeCheck",
     "start_url": "/bread-app/",
     "display": "standalone",
     "background_color": "#ffffff",
-    "theme_color": "#000000",
+    "theme_color": "#FFFFFF",
     "icons": [
       {
         "src": "images/bread.png",
