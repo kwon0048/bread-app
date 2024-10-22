@@ -41,6 +41,10 @@
   background-color: orange !important;
 }
 
+.secondary-content {
+  color: #4caf50;
+}
+
 @media only screen and (max-width: 768px) {
   .ellipsis {
     display: inline-flex;
