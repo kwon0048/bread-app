@@ -6,6 +6,7 @@ const LOCAL_STORAGE_KEY = 'bakeryItems';
 const CUSTOM_TAGS_KEY = 'customTags';
 const API_URL_KEY = 'apiUrl';
 const BAKERY_ITEMS_KEY = 'bakeryItems';
+const LAST_UPDATED_KEY = 'lastUpdatedDate';
 
 // Initialize custom tags
 function initializeCustomTags() {
@@ -35,7 +36,7 @@ function initializeCustomTags() {
 async function fetchItems() {
     // Try to get data from local storage
     const storedData = localStorage.getItem(LOCAL_STORAGE_KEY);
-    if (storedData) {
+    if (storedData && !checkForUpdate()) {
         items = JSON.parse(storedData);
         processItems();
         return;
@@ -53,6 +54,7 @@ async function fetchItems() {
         // Fetch from API
         const response = await fetch(apiUrl);
         items = await response.json();
+        updateLastUpdatedDate();
     } catch (apiError) {
         console.error('Error fetching data from API:', apiError);
         return;
@@ -278,6 +280,24 @@ return data.every(item =>
     'description' in item &&
     Array.isArray(item.tags)
 );
+}
+
+// Update last updated date
+function updateLastUpdatedDate() {
+  const today = new Date().toISOString().split('T')[0]; // Get today's date in YYYY-MM-DD format
+  localStorage.setItem(LAST_UPDATED_KEY, today);
+}
+
+// Check if data needs to be updated
+function checkForUpdate() {
+  const lastUpdatedDate = localStorage.getItem(LAST_UPDATED_KEY);
+  const today = new Date().toISOString().split('T')[0]; // Get today's date in YYYY-MM-DD format
+
+  if (!lastUpdatedDate || today > lastUpdatedDate) {
+    return true;
+  }else{
+    return false;
+  }
 }
 
 // Event listeners
