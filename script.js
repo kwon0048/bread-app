@@ -344,7 +344,7 @@ document.addEventListener('DOMContentLoaded',  function() {
   });
 
   // Fetch items when the page loads (for the main page)
-  if (window.location.pathname.endsWith('index.html') || window.location.pathname === '/') {
+  if (window.location.pathname.endsWith('index.html') || window.location.pathname === '/bread-app/') {
     fetchItems();
   }
 // await fetchItems();
