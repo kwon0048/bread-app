@@ -212,7 +212,7 @@ function displayResults(results) {
                 <br>
                 <span>${item.tags.join(', ')}</span>
             </p>
-            <div class="secondary-content" style="font-size: 35px;top: 30px;">${item.itemNumber}</div>
+            <div class="secondary-content" style="font-size: 35px;top: 30px;background-color:#FFFFFF;">${item.itemNumber}</div>
         `;
         collectionContainer.appendChild(li);
     });
