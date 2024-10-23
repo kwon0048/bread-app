@@ -73,15 +73,22 @@ function processItems() {
 }
 // Get frequent tags from items
 function getFrequentTags(items) {
-    const tagCounts = {};
-    items.forEach(item => {
-        item.tags.forEach(tag => {
-            tagCounts[tag] = (tagCounts[tag] || 0) + 1;
-        });
-    });
-    return Object.entries(tagCounts)
-        .sort((a, b) => b[1] - a[1])
-        .map(entry => entry[0]);
+  // Added this part to get custom tags
+  const customTags = JSON.parse(localStorage.getItem(CUSTOM_TAGS_KEY) || '[]');
+  const customTagNames = customTags.map(tag => tag.name);
+  
+  const tagCounts = {};
+  items.forEach(item => {
+      item.tags.forEach(tag => {
+          // Added this condition to exclude custom tags
+          if (!customTagNames.includes(tag)) {
+              tagCounts[tag] = (tagCounts[tag] || 0) + 1;
+          }
+      });
+  });
+  return Object.entries(tagCounts)
+      .sort((a, b) => b[1] - a[1])
+      .map(entry => entry[0]);
 }
 
 // Display frequent tags in the Collapsible
