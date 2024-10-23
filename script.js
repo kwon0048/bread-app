@@ -14,16 +14,23 @@ function initializeCustomTags() {
     if (!customTags) {
       // Set default values
       customTags = JSON.stringify([
-        { order: 0, name: 'T1' },
-        { order: 1, name: 'T2' },
-        { order: 2, name: 'T3' },
-        { order: 3, name: 'T4' },
-        { order: 4, name: 'T5' },
-        { order: 5, name: 'H1' },
-        { order: 6, name: 'C1' },
-        { order: 7, name: 'C2' },
-        { order: 8, name: 'C3' }
-      ]);
+        { "order": 0, "name": "T1" },
+        { "order": 1, "name": "T2" },
+        { "order": 2, "name": "T3" },
+        { "order": 3, "name": "T4" },
+        { "order": 4, "name": "T5" },
+        { "order": 5, "name": "B1" },
+        { "order": 6, "name": "B2" },
+        { "order": 7, "name": "H1" },
+        { "order": 8, "name": "C1" },
+        { "order": 9, "name": "C2" },
+        { "order": 10, "name": "C3" },
+        { "order": 11, "name": "HC" },
+        { "order": 12, "name": "L1" },
+        { "order": 13, "name": "L2" },
+        { "order": 14, "name": "L3" },
+        { "order": 15, "name": "L4" }
+    ]);
       localStorage.setItem(CUSTOM_TAGS_KEY, customTags);
     }
 
